@@ -1,4 +1,4 @@
-# serpapi
+# Google Maps School Reviews
 
 The file **`nc-schools-google-maps-with-nces-data.csv`**:
 
