@@ -1,0 +1,2497 @@
+A G COX MIDDLE 28590 - succeeded as a local result
+A H SNIPES ACADEMY OF ARTS/DES 28405 - succeeded as a place result
+A L BROWN HIGH 28083 - succeeded as a local result
+A L STANBACK MIDDLE 27278 - succeeded as a place result
+A T ALLEN ELEMENTARY 28025 - succeeded as a local result
+A.C.E. ACADEMY 28075 - succeeded as a local result
+ABBOTTS CREEK ELEMENTARY 27614 - succeeded as a local result
+ABERDEEN ELEMENTARY 28315 - succeeded as a local result
+ABSS EARLY COLLEGE AT ACC 27253 FAILED 'rating'
+ACADEMY AT SMITH 27407 - succeeded as a local result
+ACME DELCO ELEMENTARY 28456 - succeeded as a local result
+ADAMS ELEMENTARY 27511 - succeeded as a local result
+ADVANCE ACADEMY 27536 - succeeded as a local result
+AHOSKIE ELEMENTARY 27910 - succeeded as a local result
+ALAMANCE ELEMENTARY 27406 - succeeded as a local result
+ALBEMARLE HIGH 28001 - succeeded as a local result
+ALBEMARLE MIDDLE 28001 - succeeded as a local result
+ALBEMARLE ROAD ELEMENTARY 28212 - succeeded as a local result
+ALBEMARLE ROAD MIDDLE 28212 - succeeded as a local result
+ALBERT H BANGERT ELEMENTARY 28562 - succeeded as a place result
+ALDERMAN ROAD ELEMENTARY 28306 - succeeded as a local result
+ALEXANDER CENTRAL HIGH 28681 - succeeded as a local result
+ALEXANDER GRAHAM MIDDLE 28211 - succeeded as a place result
+ALEXANDER WILSON ELEMENTARY 27253 - succeeded as a local result
+ALGER B. WILKINS HIGH SCHOOL 28303 - succeeded as a place result
+ALLEGHANY HIGH 28675 - succeeded as a local result
+ALLEN JAY ELEMENTARY 27263 - succeeded as a local result
+ALLEN JAY MIDDLE - A PREPARATORY ACADEMY 27263 - succeeded as a place result
+ALLEN MIDDLE 27406 FAILED 'local_results'
+ALLENBROOK ELEMENTARY 28208 - succeeded as a local result
+ALMA O EASOM ELEMENTARY 28305 - succeeded as a place result
+ALPHA ACADEMY 28304 - succeeded as a local result
+ALSTON RIDGE ELEMENTARY 27519 - succeeded as a local result
+ALTAMAHAW-OSSIPEE ELEMENTARY 27244 - succeeded as a local result
+AMERICAN RENAISSANCE SCHOOL 28677 - succeeded as a place result
+ANDERSON CREEK ACADEMY 28390 - succeeded as a place result
+ANDERSON CREEK PRIMARY 28323 FAILED 'rating'
+ANDREWS ELEMENTARY 28901 - succeeded as a local result
+ANDREWS HIGH 28901 - succeeded as a local result
+ANDREWS MIDDLE 28901 - succeeded as a local result
+ANGIER ELEMENTARY 27501 - succeeded as a local result
+ANNE CHESNUTT MIDDLE 28314 - succeeded as a local result
+ANSON ACADEMY 28170 FAILED 'local_results'
+ANSON CO. EARLY COLLEGE HIGH 28135 - succeeded as a place result
+ANSON HIGH SCHOOL 28170 - succeeded as a local result
+ANSON MIDDLE 28170 - succeeded as a local result
+ANSONVILLE ELEMENTARY 28007 - succeeded as a local result
+ANTIOCH ELEMENTARY 28104 - succeeded as a local result
+APEX ELEMENTARY 27502 - succeeded as a local result
+APEX HIGH 27502 - succeeded as a local result
+APEX MIDDLE 27502 - succeeded as a place result
+APPLE VALLEY MIDDLE 28792 - succeeded as a local result
+AQUADALE ELEMENTARY 28128 - succeeded as a local result
+ARAPAHOE CHARTER SCHOOL 28510 - succeeded as a local result
+ARCHDALE ELEMENTARY SCHOOL 27263 - succeeded as a local result
+ARCHDALE-TRINITY MIDDLE SCHOOL 27370 FAILED 'rating'
+ARCHER ELEMENTARY 27407 - succeeded as a local result
+ARCHER LODGE MIDDLE 27591 - succeeded as a local result
+ARDREY KELL HIGH SCHOOL 28277 - succeeded as a place result
+ARISTOTLE PREPARATORY ACADEMY 28214 - succeeded as a local result
+ARMSTRONG ELEMENTARY 28312 - succeeded as a local result
+ARTHUR W EDWARDS ELEMENTARY 28532 - succeeded as a place result
+ARTSPACE CHARTER SCHOOL 28778 - succeeded as a local result
+ASBURY ACADEMY 28092 - succeeded as a place result
+ASHBROOK HIGH 28054 - succeeded as a local result
+ASHE COUNTY HIGH 28694 - succeeded as a local result
+ASHE COUNTY MIDDLE 28693 - succeeded as a local result
+ASHEBORO HIGH 27203 - succeeded as a local result
+ASHEVILLE HIGH 28803 - succeeded as a local result
+ASHEVILLE MIDDLE 28801 - succeeded as a local result
+ASHLEY ACADEMY 27105 FAILED 'rating'
+ASHLEY CHAPEL EDUCATIONAL CENTER 28379 - succeeded as a place result
+ASHLEY ELEMENTARY 28304 - succeeded as a local result
+ASHLEY PARK PREK-8 SCHOOL 28208 - succeeded as a place result
+ATHENS DRIVE HIGH 27606 - succeeded as a place result
+ATKINS ACADEMIC & TECH HIGH 27101 - succeeded as a place result
+ATKINSON ELEMENTARY 28739 - succeeded as a local result
+ATLANTIC ELEMENTARY 28511 - succeeded as a local result
+AUDREY W. GARRETT ELEMENTARY 27302 - succeeded as a place result
+AULANDER ELEMENTARY 27805 - succeeded as a local result
+AURELIAN SPRINGS INSTITUTE OF GLOBAL LEA 27850 - succeeded as a place result
+AVERSBORO ELEMENTARY 27529 - succeeded as a local result
+AVERY COUNTY HIGH 28657 - succeeded as a local result
+AVERY MIDDLE 28657 - succeeded as a local result
+AVERY'S CREEK ELEMENTARY 28704 - succeeded as a local result
+AYCOCK ELEMENTARY 27537 - succeeded as a local result
+AYDEN ELEMENTARY 28513 - succeeded as a local result
+AYDEN MIDDLE 28513 - succeeded as a local result
+AYDEN-GRIFTON HIGH 28513 - succeeded as a local result
+B C ED TECH CENTER 27817 - succeeded as a local result
+B F GRADY ELEMENTARY 28508 - succeeded as a local result
+B O BARNES ELEMENTARY 27893 - succeeded as a local result
+B. EVERETT JORDAN ELEMENTARY 27253 FAILED 'local_results'
+BADIN ELEMENTARY 28009 - succeeded as a local result
+BAILEY ELEMENTARY 27807 - succeeded as a local result
+BAILEY MIDDLE 28031 - succeeded as a place result
+BAILEYWICK ROAD ELEMENTARY 27615 - succeeded as a local result
+BAIN ELEMENTARY 28227 - succeeded as a local result
+BALFOUR ELEMENTARY 27203 - succeeded as a local result
+BALLANTYNE ELEMENTARY 28277 - succeeded as a place result
+BALLENTINE ELEMENTARY 27526 - succeeded as a place result
+BALLS CREEK ELEMENTARY 28658 - succeeded as a local result
+BANDYS HIGH 28609 - succeeded as a local result
+BANKS ELEMENTARY 28504 - succeeded as a local result
+BANKS ROAD ELEMENTARY 27603 - succeeded as a local result
+BANNER ELK ELEMENTARY 28604 - succeeded as a local result
+BANOAK ELEMENTARY 28168 - succeeded as a local result
+BARNARDSVILLE ELEMENTARY 28709 - succeeded as a local result
+BARNETTE ELEMENTARY 28078 - succeeded as a place result
+BARRINGER ACADEMIC CENTER 28208 - succeeded as a local result
+BARTLETT YANCEY HIGH 27379 - succeeded as a local result
+BARWELL ROAD ELEMENTARY 27610 - succeeded as a local result
+BASKERVILLE ELEMENTARY 27801 - succeeded as a place result
+BATH ELEMENTARY 27808 - succeeded as a local result
+BATON ELEMENTARY 28630 - succeeded as a local result
+BATTLEGROUND ELEMENTARY 28092 - succeeded as a local result
+BAUCOM ELEMENTARY 27502 - succeeded as a local result
+BEAR GRASS CHARTER SCHOOL 27982 - succeeded as a place result
+BEARFIELD PRIMARY 27910 FAILED 'local_results'
+BEAUFORT CO EARLY COLLEGE HIGH 27889 - succeeded as a local result
+BEAUFORT ELEMENTARY 28516 - succeeded as a local result
+BEAUFORT MIDDLE 28516 - succeeded as a local result
+BEAVER DAM ELEMENTARY 28382 - succeeded as a local result
+BEDDINGFIELD HIGH 27893 - succeeded as a local result
+BELL ELEMENTARY 28805 - succeeded as a local result
+BELL FORK ELEMENTARY 28540 - succeeded as a place result
+BELMONT CENTRAL ELEMENTARY 28012 - succeeded as a place result
+BELMONT ELEMENTARY SCHOOL 27870 - succeeded as a place result
+BELMONT MIDDLE 28012 - succeeded as a local result
+BELVILLE ELEMENTARY 28451 - succeeded as a local result
+BELVOIR ELEMENTARY 27834 - succeeded as a local result
+BEN D QUINN ELEMENTARY 28562 - succeeded as a place result
+BEN L. SMITH HIGH SCHOOL 27407 - succeeded as a place result
+BENHAVEN ELEMENTARY 27332 - succeeded as a local result
+BENJAMIN J MARTIN ELEMENTARY 28303 - succeeded as a place result
+BENNETT SCHOOL 27208 FAILED 'rating'
+BENSON ELEMENTARY 27504 - succeeded as a local result
+BENSON MIDDLE 27504 - succeeded as a local result
+BENTON HEIGHTS ELEMENTARY 28110 - succeeded as a local result
+BENVENUE ELEMENTARY 27804 - succeeded as a local result
+BEREWICK ELEMENTARY 28278 - succeeded as a local result
+BERRYHILL SCHOOL 28278 - succeeded as a local result
+BERTIE EARLY COLLEGE HIGH 27983 - succeeded as a local result
+BERTIE HIGH 27983 - succeeded as a local result
+BERTIE MIDDLE 27983 - succeeded as a local result
+BESSEMER CITY CENTRAL ELEM 28016 - succeeded as a place result
+BESSEMER CITY HIGH 28016 - succeeded as a local result
+BESSEMER CITY MIDDLE 28016 - succeeded as a local result
+BESSEMER CITY PRIMARY 28016 FAILED 'rating'
+BESSEMER ELEMENTARY 27405 - succeeded as a place result
+BETHANY COMMUNITY SCHOOL 27358 - succeeded as a local result
+BETHANY ELEMENTARY 27320 - succeeded as a local result
+BETHEL ELEMENTARY 27812 - succeeded as a local result
+BETHEL ELEMENTARY 28107 - succeeded as a local result
+BETHEL ELEMENTARY 28679 - succeeded as a local result
+BETHEL ELEMENTARY 28716 - succeeded as a local result
+BETHEL HILL CHARTER 27574 - succeeded as a local result
+BETHEL MIDDLE 28786 - succeeded as a local result
+BETHESDA ELEMENTARY 27703 - succeeded as a local result
+BETHLEHEM ELEMENTARY 28681 - succeeded as a local result
+BETHWARE ELEMENTARY 28086 - succeeded as a local result
+BEULAVILLE ELEMENTARY 28518 - succeeded as a local result
+BEVERLY HILLS ELEMENTARY 28025 FAILED 'rating'
+BEVERLY WOODS ELEMENTARY 28210 - succeeded as a place result
+BILL HEFNER ELEMENTARY 28314 - succeeded as a local result
+BILLINGSVILLE ELEMENTARY 28205 - succeeded as a local result
+BLACK MOUNTAIN ELEMENTARY 28711 - succeeded as a local result
+BLACK MOUNTAIN PRIMARY 28711 FAILED 'rating'
+BLACKBURN ELEMENTARY 28658 - succeeded as a local result
+BLADEN LAKES PRIMARY 28337 - succeeded as a local result
+BLADENBORO MIDDLE 28320 - succeeded as a local result
+BLADENBORO PRIMARY 28320 FAILED 'local_results'
+BLOWING ROCK ELEMENTARY 28605 - succeeded as a local result
+BLUE CREEK ELEMENTARY 28540 - succeeded as a local result
+BLUE RIDGE EARLY COLLEGE 28717 - succeeded as a local result
+BLUE RIDGE ELEMENTARY 28693 - succeeded as a local result
+BLUE RIDGE HIGH SCHOOL 28657 - succeeded as a local result
+BLUE RIDGE SCHOOL 28717 - succeeded as a local result
+BLUFORD ELEMENTARY 27401 - succeeded as a local result
+BLYTHE ELEMENTARY 28078 - succeeded as a place result
+BOGUE SOUND ELEMENTARY 28570 - succeeded as a local result
+BOILING SPRINGS ELEMENTARY 28152 - succeeded as a local result
+BOLIVIA ELEMENTARY 28422 - succeeded as a local result
+BOLTON ELEMENTARY 27103 - succeeded as a local result
+BONLEE SCHOOL 27207 FAILED 'rating'
+BOOMER-FERGUSON ELEMENTARY SCHOOL 28606 - succeeded as a place result
+BOONE TRAIL ELEMENTARY 27546 - succeeded as a local result
+BOONVILLE ELEMENTARY 27011 - succeeded as a local result
+BOSTIAN ELEMENTARY 28023 - succeeded as a local result
+BOWMAN MIDDLE 28705 - succeeded as a local result
+BRADFORD PREPARATORY SCHOOL 28262 - succeeded as a local result
+BRADLEY CREEK ELEMENTARY 28409 - succeeded as a local result
+BRAGG STREET ACADEMY 27330 - succeeded as a place result
+BRASSFIELD ELEMENTARY 27614 - succeeded as a local result
+BRAXTON CRAVEN MIDDLE SCHOOL 27370 - succeeded as a place result
+BRENTWOOD ELEMENTARY 28304 - succeeded as a local result
+BRENTWOOD ELEMENTARY 27604 - succeeded as a local result
+BREVARD ACADEMY 28768 - succeeded as a local result
+BREVARD ELEMENTARY 28712 - succeeded as a local result
+BREVARD HIGH 28712 - succeeded as a local result
+BREVARD MIDDLE 28712 - succeeded as a local result
+BRIARCLIFF ELEMENTARY 27511 - succeeded as a local result
+BRIARWOOD ACADEMY 28215 - succeeded as a local result
+BRIDGES ACADEMY 28676 - succeeded as a local result
+BRIDGES SCHOOL 28557 FAILED 'rating'
+BRIDGETON ELEMENTARY 28560 - succeeded as a local result
+BRIER CREEK ELEMENTARY 27617 - succeeded as a local result
+BRIER CREEK ELEMENTARY 27360 - succeeded as a local result
+BRIGHTWOOD ELEMENTARY 27405 - succeeded as a local result
+BRINSON MEMORIAL ELEMENTARY 28560 - succeeded as a place result
+BROAD CREEK MIDDLE 28570 - succeeded as a local result
+BROADVIEW MIDDLE 27217 - succeeded as a local result
+BROADWAY ELEMENTARY 27505 - succeeded as a local result
+BROGDEN MIDDLE 28333 - succeeded as a local result
+BROGDEN MIDDLE 27704 - succeeded as a local result
+BROGDEN PRIMARY 28333 FAILED 'local_results'
+BROOKS ELEMENTARY 27609 - succeeded as a local result
+BROOKS GLOBAL ELEMENTARY 27408 - succeeded as a local result
+BROOKSIDE ELEMENTARY 28054 - succeeded as a local result
+BROWN SUMMIT MIDDLE 27214 - succeeded as a local result
+BRUCE DRYSDALE ELEMENTARY 28792 - succeeded as a local result
+BRUCE H. THARRINGTON PRIMARY 27030 - succeeded as a place result
+BRUNS AVENUE ELEMENTARY 28208 - succeeded as a place result
+BRUNSON ELEMENTARY 27104 - succeeded as a local result
+BRUNSWICK COUNTY EARLY COLLEGE 28422 - succeeded as a local result
+BRUSH CREEK ELEMENTARY 28753 FAILED 'rating'
+BT BULLOCK ELEMENTARY 27330 - succeeded as a local result
+BUCKLAND ELEMENTARY 27937 - succeeded as a local result
+BUGG ELEMENTARY 27610 - succeeded as a local result
+BUIES CREEK ELEMENTARY 27506 - succeeded as a place result
+BUNKER HILL HIGH 28610 - succeeded as a place result
+BUNN ELEMENTARY 27508 - succeeded as a local result
+BUNN HIGH 27508 FAILED 'local_results'
+BUNN MIDDLE 27508 FAILED 'local_results'
+BURGAW MIDDLE 28425 - succeeded as a local result
+BURKE MIDDLE COLLEGE 28655 - succeeded as a local result
+BURNS HIGH 28090 - succeeded as a local result
+BURNS MIDDLE 28090 - succeeded as a local result
+BURNSVILLE ELEMENTARY 28714 - succeeded as a local result
+BURTON ELEMENTARY 27701 - succeeded as a local result
+BUTLER AVENUE ELEMENTARY 28328 - succeeded as a place result
+BUTLER HIGH SCHOOL 28105 - succeeded as a local result
+BUTNER-STEM ELEMENTARY 27509 - succeeded as a local result
+BUTNER-STEM MIDDLE 27509 - succeeded as a local result
+C B ELLER ELEMENTARY SCHOOL 28621 - succeeded as a place result
+C C GRIFFIN MIDDLE 28025 - succeeded as a local result
+C C SPAULDING ELEMENTARY 27707 - succeeded as a place result
+C C WRIGHT ELEMENTARY SCHOOL 28659 - succeeded as a place result
+C E JORDAN HIGH 27707 - succeeded as a place result
+C JOYNER GREENE EDUCATION CENTER 27282 FAILED 'local_results'
+C M EPPES MIDDLE 27858 - succeeded as a place result
+C WAYNE COLLIER ELEMENTARY 28348 - succeeded as a place result
+C. G. CREDLE ELEMENTARY 27565 - succeeded as a local result
+C.F. POPE ELEMENTARY 28425 - succeeded as a local result
+CABARRUS CHARTER ACADEMY 28027 - succeeded as a local result
+CABARRUS CO OPPORTUNITY SCHOOL 28025 - succeeded as a local result
+CABARRUS-KANNAPOLIS EARLY COLL 28027 - succeeded as a place result
+CALDWELL APPLIED SCIENCES ACADEMY 28638 - succeeded as a place result
+CALDWELL EARLY COLLEGE 28638 - succeeded as a local result
+CALEB'S CREEK ELEMENTARY 27284 - succeeded as a local result
+CAMDEN COUNTY HIGH 27921 - succeeded as a local result
+CAMDEN INTERMEDIATE 27921 - succeeded as a place result
+CAMDEN MIDDLE 27921 - succeeded as a local result
+CAMERON ELEMENTARY 28326 - succeeded as a local result
+CAMERON PARK ELEMENTARY 27278 - succeeded as a place result
+CANDLER ELEMENTARY 28715 - succeeded as a local result
+CANDOR ELEMENTARY 27229 - succeeded as a local result
+CANE CREEK MIDDLE 28732 - succeeded as a local result
+CANE RIVER MIDDLE 28714 - succeeded as a local result
+CANTON MIDDLE 28716 - succeeded as a local result
+CAPE FEAR CENTER FOR INQUIRY 28401 - succeeded as a place result
+CAPE FEAR ELEMENTARY 28457 - succeeded as a local result
+CAPE FEAR HIGH 28312 - succeeded as a local result
+CAPE FEAR MIDDLE 28457 - succeeded as a local result
+CAPE HATTERAS ELEMENTARY SCHOOL 27920 - succeeded as a local result
+CAPE HATTERAS SECONDARY SCHOOL 27920 - succeeded as a place result
+CARDINAL CHARTER ACADEMY 27513 - succeeded as a place result
+CAREER ACADEMY AND TECHNICAL SCHOOL 28166 FAILED 'local_results'
+CAREER AND TECHNICAL EDUCATION CENTER 27217 - succeeded as a local result
+CAREER CENTER 27101 - succeeded as a local result
+CAREER READINESS ACADEMY AT MOSLEY PLC 28405 - succeeded as a local result
+CARL A FURR ELEMENTARY 28027 - succeeded as a place result
+CARMEL MIDDLE 28226 - succeeded as a local result
+CARNAGE MIDDLE 27610 - succeeded as a local result
+CAROLINA BEACH ELEMENTARY 28428 - succeeded as a local result
+CAROLINA FOREST ELEMENTARY 28546 - succeeded as a place result
+CAROLINA INTERNATIONAL SCHOOL 28027 - succeeded as a local result
+CARPENTER ELEMENTARY 27519 FAILED 'local_results'
+CARR ELEMENTARY 28034 - succeeded as a local result
+CARRBORO ELEMENTARY 27510 - succeeded as a local result
+CARRBORO HIGH 27510 - succeeded as a local result
+CARROLL MIDDLE 27609 - succeeded as a place result
+CARSON HIGH 28023 - succeeded as a local result
+CARTER COMMUNITY CHARTER 27705 - succeeded as a place result
+CARTER G. WOODSON SCHOOL 27127 - succeeded as a local result
+CARTER HIGH SCHOOL 27101 - succeeded as a local result
+CARTHAGE ELEMENTARY 28327 - succeeded as a local result
+CARTOOGECHAYE ELEMENTARY 28734 - succeeded as a local result
+CARVER ELEMENTARY 27591 - succeeded as a local result
+CARVER ELEMENTARY 28365 - succeeded as a local result
+CARVER ELEMENTARY 27537 - succeeded as a local result
+CARVER HEIGHTS ELEMENTARY 27530 - succeeded as a local result
+CARVER HIGH 27105 - succeeded as a local result
+CARVER MIDDLE 28351 - succeeded as a local result
+CARY ELEMENTARY 27511 - succeeded as a local result
+CARY HIGH 27511 - succeeded as a local result
+CASA ESPERANZA MONTESSORI CHARTER SCHOOL 27616 - succeeded as a place result
+CASAR ELEMENTARY 28020 - succeeded as a local result
+CASH ELEMENTARY 27284 - succeeded as a local result
+CASTLE HAYNE ELEMENTARY 28429 - succeeded as a local result
+CATAWBA ELEMENTARY SCHOOL 28609 - succeeded as a place result
+CATAWBA HEIGHTS ELEMENTARY 28012 - succeeded as a local result
+CATAWBA ROSENWALD EDUCATION CENTER 28609 - succeeded as a place result
+CATAWBA SPRINGS ELEMENTARY 28037 - succeeded as a local result
+CATO MIDDLE COLLEGE HIGH SCHOOL 28215 - succeeded as a place result
+CEASAR CONE ELEMENTARY 27405 - succeeded as a local result
+CEDAR CREEK MIDDLE 27596 - succeeded as a local result
+CEDAR FORK ELEMENTARY 27560 - succeeded as a place result
+CEDAR GROVE ELEMENTARY 27856 - succeeded as a local result
+CEDAR GROVE MIDDLE 28462 - succeeded as a local result
+CEDAR RIDGE ELEMENTARY 27024 - succeeded as a local result
+CEDAR RIDGE HIGH 27278 - succeeded as a local result
+CELESTE HENKEL ELEMENTARY 28677 - succeeded as a local result
+CENTENNIAL CAMPUS MIDDLE 27606 - succeeded as a local result
+CENTRAL ACADEMY OF TECHNOLOGY AND ARTS 28112 - succeeded as a place result
+CENTRAL CABARRUS HIGH 28025 FAILED 'rating'
+CENTRAL DAVIDSON HIGH 27292 - succeeded as a local result
+CENTRAL DAVIDSON MIDDLE 27292 - succeeded as a local result
+CENTRAL DAVIE ACADEMY 27028 - succeeded as a local result
+CENTRAL ELEMENTARY 27845 FAILED 'rating'
+CENTRAL ELEMENTARY 28001 - succeeded as a local result
+CENTRAL ELEMENTARY 27288 - succeeded as a local result
+CENTRAL ELEMENTARY 27278 - succeeded as a local result
+CENTRAL ELEMENTARY 27909 FAILED 'rating'
+CENTRAL ELEMENTARY 28625 - succeeded as a local result
+CENTRAL ELEMENTARY 27917 - succeeded as a local result
+CENTRAL HAYWOOD HIGH 28721 - succeeded as a local result
+CENTRAL MIDDLE 27017 - succeeded as a local result
+CENTRAL MIDDLE 28472 - succeeded as a place result
+CENTRAL MIDDLE SCHOOL 27938 - succeeded as a local result
+CENTRAL PARK SCHOOL FOR CHILD 27701 - succeeded as a local result
+CENTRAL WILKES MIDDLE SCHOOL 28654 - succeeded as a place result
+CERRO GORDO ELEMENTARY 28430 - succeeded as a local result
+CHADBOURN ELEMENTARY 28431 - succeeded as a local result
+CHALLENGER EARLY COLLEGE HIGH 28602 - succeeded as a place result
+CHALONER MIDDLE SCHOOL 27870 - succeeded as a local result
+CHANTILLY MONTESSORI 28205 - succeeded as a local result
+CHAPEL GROVE ELEMENTARY 28052 - succeeded as a local result
+CHAPEL HILL HIGH 27516 - succeeded as a local result
+CHAR ENG EARLY COLLEGE-UNCC 28262 - succeeded as a place result
+CHARLES B AYCOCK HIGH 27863 - succeeded as a place result
+CHARLES E BOGER ELEMENTARY 28081 - succeeded as a place result
+CHARLES ENGLAND ELEMENTARY SCHOOL 27292 - succeeded as a place result
+CHARLES H DARDEN MIDDLE 27893 - succeeded as a place result
+CHARLES H TUTTLE ELEMENTARY 28650 - succeeded as a local result
+CHARLES P MURRAY MIDDLE 28412 - succeeded as a place result
+CHARLES W MCCRARY ELEMENTARY 27203 - succeeded as a place result
+CHARLES W STANFORD MIDDLE 27278 - succeeded as a local result
+CHARLOTTE SECONDARY 28211 - succeeded as a local result
+CHARLOTTE-MECKLENBURG ACADEMY 28269 - succeeded as a local result
+CHARTER DAY SCHOOL 28451 - succeeded as a local result
+CHASE HIGH SCHOOL 28043 - succeeded as a place result
+CHASE MIDDLE SCHOOL 28043 - succeeded as a local result
+CHATHAM CENTRAL HIGH 27207 - succeeded as a local result
+CHATHAM CHARTER 27344 - succeeded as a place result
+CHATHAM MIDDLE 27344 - succeeded as a local result
+CHEROKEE EXTENSION SCHOOL 28713 FAILED 'rating'
+CHERRYVILLE ELEMENTARY 28021 FAILED 'rating'
+CHERRYVILLE HIGH 28021 - succeeded as a local result
+CHESTNUT GROVE MIDDLE SCHOOL 27021 - succeeded as a place result
+CHICOD 27858 FAILED 'address'
+CHILDERS ELEMENTARY 28092 - succeeded as a local result
+CHILDREN'S VILLAGE ACADEMY 28501 - succeeded as a local result
+CHILDRENS CENTER 27106 - succeeded as a local result
+CHINA GROVE ELEMENTARY 28023 - succeeded as a local result
+CHINA GROVE MIDDLE 28023 - succeeded as a local result
+CHINQUAPIN ELEMENTARY 28521 - succeeded as a local result
+CHOCOWINITY MIDDLE 27817 - succeeded as a local result
+CHOCOWINITY PRIMARY 27817 FAILED 'rating'
+CHOWAN MIDDLE 27980 - succeeded as a local result
+CHURCHLAND ELEMENTARY 27295 - succeeded as a local result
+CIS ACADEMY 28372 - succeeded as a local result
+CITY OF MEDICINE ACADEMY 27704 - succeeded as a local result
+CLARA J PECK ELEMENTARY 27403 - succeeded as a place result
+CLAREMONT ELEMENTARY 28610 - succeeded as a local result
+CLARKE ELEMENTARY 27537 - succeeded as a local result
+CLARKTON SCHOOL OF DISCOVERY 28433 - succeeded as a local result
+CLAXTON ELEMENTARY 28801 - succeeded as a local result
+CLAXTON ELEMENTARY 27410 - succeeded as a place result
+CLAYTON HIGH 27520 - succeeded as a local result
+CLAYTON MIDDLE 27520 - succeeded as a local result
+CLEAR CREEK ELEMENTARY 28792 - succeeded as a local result
+CLEAR CREEK ELEMENTARY 28227 - succeeded as a place result
+CLEMENT ELEMENTARY 28318 - succeeded as a local result
+CLEMMONS ELEMENTARY 27012 - succeeded as a local result
+CLEMMONS MIDDLE SCHOOL 27127 - succeeded as a local result
+CLEVELAND ECHS 28152 - succeeded as a local result
+CLEVELAND ELEMENTARY 27520 - succeeded as a local result
+CLEVELAND HIGH 27520 - succeeded as a local result
+CLEVELAND MIDDLE 27529 - succeeded as a local result
+CLIFFDALE ELEMENTARY 28304 - succeeded as a local result
+CLIFFSIDE ELEMENTARY SCHOOL 28024 - succeeded as a local result
+CLINTON HIGH 28328 - succeeded as a local result
+CLOVER GARDEN 27217 - succeeded as a local result
+CLOVERLEAF ELEMENTARY 28625 - succeeded as a local result
+CLUB BOULEVARD ELEMENTARY 27704 - succeeded as a local result
+CLYDE CAMPBELL ELEMENTARY 28601 - succeeded as a local result
+CLYDE ELEMENTARY 28721 - succeeded as a place result
+CLYDE ERWIN ELEMENTARY 28540 - succeeded as a local result
+COATS ELEMENTARY 27521 - succeeded as a local result
+COATS-ERWIN MIDDLE 28334 - succeeded as a local result
+COCHRANE COLLEGIATE ACADEMY 28215 - succeeded as a local result
+CODDLE CREEK ELEMENTARY 28115 - succeeded as a local result
+COKER-WIMBERLY ELEMENTARY 27809 - succeeded as a local result
+COLERAIN ELEMENTARY 27924 - succeeded as a local result
+COLERIDGE ELEMENTARY SCHOOL 27316 - succeeded as a local result
+COLFAX ELEMENTARY 27235 - succeeded as a local result
+COLLABORATIVE COLLEGE FOR TECHNOLOGY 28677 - succeeded as a place result
+COLLEGE LAKES ELEMENTARY 28311 - succeeded as a local result
+COLLEGE PARK ELEMENTARY 28403 - succeeded as a local result
+COLLEGE PREP AND LEADERSHIP ACADEMY 27282 - succeeded as a place result
+COLLETTSVILLE SCHOOL 28611 - succeeded as a local result
+COLLINSWOOD LANGUAGE ACADEMY 28210 - succeeded as a local result
+COLTRANE-WEBB ELEMENTARY 28025 - succeeded as a local result
+COLUMBIA HIGH 27925 - succeeded as a local result
+COLUMBIA MIDDLE 27925 - succeeded as a local result
+COLUMBUS CAREER AND COLLEGE ACADEMY 28472 - succeeded as a place result
+COLUMBUS CHARTER SCHOOL 28472 - succeeded as a local result
+COMBS ELEMENTARY 27606 - succeeded as a local result
+COMFORT ELEMENTARY 28585 - succeeded as a local result
+COMMONWEALTH HIGH 28205 - succeeded as a local result
+COMMUNITY HIGH SCHOOL 28778 - succeeded as a local result
+COMMUNITY HOUSE MIDDLE 28277 - succeeded as a local result
+COMMUNITY SCHOOL OF DAVIDSON 28036 - succeeded as a local result
+CONCORD HIGH 28025 - succeeded as a local result
+CONCORD MIDDLE 28025 - succeeded as a local result
+CONN ELEMENTARY 27616 - succeeded as a local result
+CONOVER SPECIAL EDUCATION 28613 - succeeded as a local result
+CONTENTNEA-SAVANNAH SCHOOL 28501 - succeeded as a local result
+CONWAY MIDDLE 27820 - succeeded as a local result
+COOK LITERACY MODEL SCHOOL 27105 - succeeded as a place result
+COOL SPRING ELEMENTARY 27013 - succeeded as a local result
+COOLEEMEE ELEMENTARY 27014 - succeeded as a local result
+COOPER ACADEMY 27520 - succeeded as a place result
+COOPERS ELEMENTARY 27822 - succeeded as a local result
+COPELAND ELEMENTARY 27017 - succeeded as a local result
+CORDOVA MIDDLE 28330 FAILED 'local_results'
+CORINTH HOLDERS HIGH 27591 - succeeded as a local result
+CORINTH-HOLDERS ELEMENTARY 27597 - succeeded as a local result
+CORNATZER ELEMENTARY 27028 - succeeded as a place result
+CORNELIUS ELEMENTARY 28031 - succeeded as a local result
+CORNERSTONE CHARTER ACADEMY-CFA 27409 - succeeded as a local result
+CORRIHER LIPE MIDDLE 28088 - succeeded as a local result
+CORVIAN COMMUNITY SCHOOL 28269 - succeeded as a local result
+COSTNER ELEMENTARY 28034 - succeeded as a local result
+COTSWOLD ELEMENTARY 28211 - succeeded as a local result
+COULWOOD STEM ACADEMY 28214 - succeeded as a local result
+COURTNEY ELEMENTARY 27055 - succeeded as a local result
+COVE CREEK ELEMENTARY 28692 - succeeded as a local result
+COX MILL ELEMENTARY 28027 - succeeded as a local result
+COX MILL HIGH SCHOOL 28027 - succeeded as a place result
+CRAIN'S CREEK MIDDLE 28327 - succeeded as a local result
+CRAMERTON MIDDLE 28032 - succeeded as a local result
+CRANBERRY MIDDLE 28622 - succeeded as a local result
+CRAVEN EARLY COLLEGE HIGH 28562 FAILED 'rating'
+CREECH ROAD ELEMENTARY 27529 - succeeded as a local result
+CREEDMOOR ELEMENTARY 27522 - succeeded as a local result
+CREEKSIDE ELEMENTARY 27707 - succeeded as a place result
+CREEKSIDE ELEMENTARY 28562 - succeeded as a local result
+CREEKSIDE ELEMENTARY 28590 - succeeded as a place result
+CREST HIGH 28152 FAILED 'rating'
+CREST MIDDLE 28150 - succeeded as a local result
+CRESTDALE MIDDLE 28105 - succeeded as a local result
+CRESWELL ELEMENTARY 27928 - succeeded as a local result
+CROATAN HIGH 28570 - succeeded as a local result
+CROFT COMMUNITY SCHOOL 28269 - succeeded as a local result
+CROSS CREEK EARLY COLLEGE 28301 - succeeded as a place result
+CROSSCREEK CHARTER SCHOOL 27549 - succeeded as a local result
+CROSSNORE ELEMENTARY 28616 FAILED 'rating'
+CROSSROADS ARTS SCIENCES EARLY COLLEGE 28677 FAILED 'local_results'
+CROWN POINT ELEMENTARY 28105 - succeeded as a local result
+CS BROWN HIGH 27986 FAILED 'local_results'
+CULBRETH MIDDLE 27516 - succeeded as a local result
+CULLOWHEE VALLEY SCHOOL 28723 - succeeded as a local result
+CUMBERLAND INTERNATIONAL EARLY COLLEGE 28301 - succeeded as a place result
+CUMBERLAND MILLS ELEMENTARY 28306 - succeeded as a local result
+CUMBERLAND POLYTECHNIC 28303 FAILED 'local_results'
+CUMBERLAND ROAD ELEMENTARY 28306 - succeeded as a local result
+CURRITUCK COUNTY HIGH 27917 - succeeded as a local result
+CURRITUCK COUNTY MIDDLE 27917 FAILED 'rating'
+CUTHBERTSON HIGH 28173 FAILED 'rating'
+CUTHBERTSON MIDDLE 28173 - succeeded as a local result
+CYRUS P FRAZIER ELEMENTARY 27406 - succeeded as a place result
+D F WALKER ELEMENTARY 27932 - succeeded as a local result
+D H CONLEY HIGH 27858 - succeeded as a local result
+D S JOHNSON ELEMENTARY 27801 - succeeded as a local result
+DABNEY ELEMENTARY 27537 - succeeded as a place result
+DALTON MCMICHAEL HIGH 27027 - succeeded as a local result
+DANA ELEMENTARY 28792 - succeeded as a local result
+DARE LEARNING ACADEMY 27954 FAILED 'rating'
+DAVENPORT A+ SCHOOL 28645 - succeeded as a local result
+DAVID COX ROAD ELEMENTARY 28269 - succeeded as a place result
+DAVID D JONES ELEMENTARY 27406 - succeeded as a place result
+DAVIDSON COUNTY HIGH SCHOOL 27292 - succeeded as a local result
+DAVIDSON EARLY COLLEGE 27360 - succeeded as a local result
+DAVIDSON K-8 SCHOOL 28036 - succeeded as a place result
+DAVIDSON RIVER SCHOOL 28712 - succeeded as a local result
+DAVIE COUNTY EARLY COLLEGE HIGH 27028 - succeeded as a place result
+DAVIE COUNTY HIGH 27028 - succeeded as a local result
+DAVIS DRIVE ELEMENTARY 27519 - succeeded as a local result
+DAVIS DRIVE MIDDLE 27519 - succeeded as a place result
+DAVIS-TOWNSEND ELEMENTARY 27292 - succeeded as a local result
+DEEP BRANCH ELEMENTARY 28360 - succeeded as a local result
+DEEP RIVER ELEMENTARY 27330 - succeeded as a place result
+DENTON ELEMENTARY 27239 - succeeded as a local result
+DEVONSHIRE ELEMENTARY 28215 - succeeded as a local result
+DEYTON ELEMENTARY 28777 - succeeded as a local result
+DIGGS-LATHAM ELEMENTARY 27101 - succeeded as a local result
+DILLARD ACADEMY 27530 - succeeded as a local result
+DILLARD DRIVE ELEMENTARY 27606 - succeeded as a local result
+DILLARD DRIVE MIDDLE 27606 - succeeded as a place result
+DILLARD MIDDLE 27530 - succeeded as a local result
+DILWORTH ELEM SEDGEFIELD CAMPUS 28209 - succeeded as a local result
+DILWORTH ELEMENTARY SCHOOL: LATTA CAMPUS 28203 - succeeded as a place result
+DISCOVERY HIGH SCHOOL 28658 - succeeded as a local result
+DISTRICT NO 7 ELEMENTARY 28395 - succeeded as a local result
+DIXON ELEMENTARY 28445 - succeeded as a place result
+DIXON HIGH 28445 - succeeded as a local result
+DIXON MIDDLE 28460 - succeeded as a local result
+DIXON ROAD ELEMENTARY 27592 - succeeded as a local result
+DOBSON ELEMENTARY 27017 FAILED 'rating'
+DOLE ELEMENTARY 28146 - succeeded as a local result
+DON D STEED ELEMENTARY 28376 - succeeded as a local result
+DONNA L LOFLIN ELEMENTARY 27203 - succeeded as a place result
+DORIS HENDERSON NEWCOMERS SCH 27410 - succeeded as a place result
+DOUGLAS BYRD HIGH 28304 - succeeded as a local result
+DOUGLAS BYRD MIDDLE 28304 - succeeded as a local result
+DOUGLAS ELEMENTARY 27609 - succeeded as a local result
+DOUGLASS ACADEMY 28401 - succeeded as a local result
+DOUGLASS ELEMENTARY 27288 - succeeded as a local result
+DOWN EAST MIDDLE AND SMYRNA ELEMENTARY 28579 - succeeded as a place result
+DPS HOSPITAL SCHOOL 27710 FAILED 'rating'
+DR HUBERT EATON SR ELEM 28405 - succeeded as a place result
+DR JOHN CODINGTON ELEM 28412 - succeeded as a place result
+DREXEL ELEMENTARY 28655 - succeeded as a local result
+DRUID HILLS ACADEMY 28206 - succeeded as a local result
+DUBLIN PRIMARY 28332 FAILED 'local_results'
+DUDLEY SHOALS ELEMENTARY 28630 - succeeded as a local result
+DUNN MIDDLE 28334 - succeeded as a local result
+DUPLIN EARLY COLLEGE HIGH 28349 - succeeded as a place result
+DURANT ROAD ELEMENTARY 27614 - succeeded as a local result
+DURANT ROAD MIDDLE 27614 - succeeded as a local result
+DURHAM SCHOOL OF THE ARTS 27701 - succeeded as a local result
+DURHAM'S PERFORMANCE LEARNING CENTER 27703 - succeeded as a place result
+E B AYCOCK MIDDLE 27858 - succeeded as a local result
+E B FRINK MIDDLE 28551 - succeeded as a local result
+E E MILLER ELEMENTARY 28314 - succeeded as a local result
+E E SMITH HIGH 28301 - succeeded as a local result
+E J HAYES ELEMENTARY 27892 - succeeded as a local result
+E K POWE ELEMENTARY 27705 - succeeded as a place result
+E LAWSON BROWN MIDDLE 27360 - succeeded as a place result
+E M ROLLINS ELEMENTARY 27536 - succeeded as a local result
+E M YODER ELEMENTARY 27302 - succeeded as a local result
+E MELVIN HONEYCUTT ELEMENTARY 28306 - succeeded as a place result
+E O YOUNG JR ELEMENTARY 27537 - succeeded as a place result
+E. E. WADDELL LANGUAGE ACADEMY 28217 - succeeded as a local result
+EARLY COLLEGE 28801 - succeeded as a local result
+EARLY COLLEGE AT GUILFORD 27410 - succeeded as a place result
+EARLY COLLEGE EAST HIGH 28532 - succeeded as a place result
+EARLY COLLEGE OF FORSYTH CO 27103 - succeeded as a place result
+EASLEY ELEMENTARY 27712 - succeeded as a local result
+EAST ALBEMARLE ELEMENTARY 28001 - succeeded as a local result
+EAST ALEXANDER MIDDLE 28636 - succeeded as a local result
+EAST ARCADIA ELEMENTARY 28456 - succeeded as a local result
+EAST BEND ELEMENTARY 27018 - succeeded as a local result
+EAST BLADEN HIGH 28337 - succeeded as a local result
+EAST BURKE HIGH 28612 - succeeded as a local result
+EAST BURKE MIDDLE 28612 - succeeded as a local result
+EAST CARTERET HIGH 28516 FAILED 'rating'
+EAST CARY MIDDLE 27511 - succeeded as a local result
+EAST CHAPEL HILL HIGH 27514 - succeeded as a local result
+EAST CLAYTON ELEMENTARY 27527 - succeeded as a local result
+EAST COLUMBUS JUNIOR-SENIOR HIGH 28450 - succeeded as a place result
+EAST DAVIDSON HIGH 27360 - succeeded as a local result
+EAST DUPLIN HIGH 28518 - succeeded as a local result
+EAST ELEMENTARY 28112 - succeeded as a local result
+EAST ELEMENTARY 28086 - succeeded as a local result
+EAST FORSYTH HIGH 27284 - succeeded as a local result
+EAST FORSYTH MIDDLE SCHOOL 27284 - succeeded as a place result
+EAST FRANKLIN ELEMENTARY 28734 - succeeded as a local result
+EAST GARNER ELEMENTARY 27529 - succeeded as a local result
+EAST GARNER MIDDLE 27529 - succeeded as a local result
+EAST GASTON HIGH 28120 - succeeded as a local result
+EAST HENDERSON HIGH 28726 - succeeded as a local result
+EAST HOKE MIDDLE 28376 - succeeded as a place result
+EAST IREDELL ELEMENTARY 28625 - succeeded as a local result
+EAST IREDELL MIDDLE 28625 - succeeded as a local result
+EAST LEE MIDDLE 27330 - succeeded as a local result
+EAST LINCOLN HIGH 28037 - succeeded as a local result
+EAST LINCOLN MIDDLE 28080 - succeeded as a local result
+EAST MCDOWELL MIDDLE SCHOOL 28752 - succeeded as a place result
+EAST MECKLENBURG HIGH SCHOOL 28212 - succeeded as a place result
+EAST MIDDLE 27209 FAILED 'local_results'
+EAST MILLBROOK MIDDLE 27616 - succeeded as a place result
+EAST MOORESVILLE INTERMEDIATE 28115 - succeeded as a local result
+EAST ROBESON PRIMARY 28358 FAILED 'local_results'
+EAST ROCKINGHAM ELEMENTARY 28379 - succeeded as a local result
+EAST ROWAN HIGH 28146 - succeeded as a local result
+EAST RUTHERFORD HIGH SCHOOL 28018 - succeeded as a local result
+EAST RUTHERFORD MIDDLE SCHOOL 28018 - succeeded as a place result
+EAST SURRY HIGH 27041 - succeeded as a local result
+EAST UNION MIDDLE 28103 - succeeded as a local result
+EAST WAKE ACADEMY 27597 - succeeded as a local result
+EAST WAKE HIGH 27591 - succeeded as a place result
+EAST WILKES HIGH SCHOOL 28670 - succeeded as a local result
+EAST WILKES MIDDLE SCHOOL 28670 - succeeded as a place result
+EAST YANCEY MIDDLE 28714 - succeeded as a local result
+EASTERN ALAMANCE HIGH 27302 - succeeded as a local result
+EASTERN ELEMENTARY 27858 - succeeded as a local result
+EASTERN ELEMENTARY 27889 - succeeded as a local result
+EASTERN GUILFORD HIGH 27249 - succeeded as a local result
+EASTERN GUILFORD MIDDLE 27249 - succeeded as a local result
+EASTERN NC SCHOOL FOR THE DEAF 27893 - succeeded as a local result
+EASTERN RANDOLPH HIGH SCHOOL 27316 - succeeded as a place result
+EASTERN WAYNE ELEMENTARY 27534 - succeeded as a local result
+EASTERN WAYNE HIGH 27534 - succeeded as a local result
+EASTERN WAYNE MIDDLE 27534 - succeeded as a local result
+EASTFIELD GLOBAL MAGNET SCHOOL 28752 - succeeded as a place result
+EASTLAWN ELEMENTARY 27217 - succeeded as a local result
+EASTON ELEMENTARY SCHOOL 27107 - succeeded as a local result
+EASTOVER ELEMENTARY 28207 - succeeded as a local result
+EASTOVER-CENTRAL ELEMENTARY 28312 - succeeded as a local result
+EASTSIDE STREAM ACADEMY 28215 - succeeded as a local result
+EASTWAY ELEMENTARY 27701 - succeeded as a place result
+EASTWAY MIDDLE 28205 - succeeded as a place result
+EBLEN INTERMEDIATE 28806 FAILED 'rating'
+ED V BALDWIN ELEMENTARY 28348 - succeeded as a place result
+EDGECOMBE EARLY COLLEGE HIGH 27886 - succeeded as a local result
+EDGEWOOD CMTY DEVELOPMENTAL 27530 - succeeded as a local result
+EDGEWOOD ELEMENTARY 28472 - succeeded as a local result
+EDNEYVILLE ELEMENTARY 28792 - succeeded as a local result
+EDWARD BEST ELEMENTARY 27549 - succeeded as a local result
+EDWARD D SADLER JR  ELEMENTARY SCHOOL 28052 - succeeded as a place result
+EDWIN A ALDERMAN ELEMENTARY 27407 - succeeded as a local result
+EDWIN A ALDERMAN ELEMENTARY 28403 - succeeded as a place result
+EDWIN A ANDERSON ELEMENTARY 28412 - succeeded as a place result
+EDWIN M HOLT ELEMENTARY 27215 - succeeded as a place result
+EFLAND CHEEKS ELEMENTARY 27243 - succeeded as a local result
+ELISE MIDDLE 27325 FAILED 'local_results'
+ELIZABETH CITY MIDDLE 27909 - succeeded as a local result
+ELIZABETH LANE ELEMENTARY 28105 - succeeded as a local result
+ELIZABETH M CASHWELL ELEMENTARY 28306 - succeeded as a place result
+ELIZABETH TRADITIONAL ELEM 28204 - succeeded as a local result
+ELIZABETHTOWN MIDDLE 28337 - succeeded as a local result
+ELIZABETHTOWN PRIMARY 28337 - succeeded as a place result
+ELKIN ELEMENTARY 28621 - succeeded as a local result
+ELKIN HIGH 28621 - succeeded as a local result
+ELKIN MIDDLE 28621 - succeeded as a local result
+ELLENBORO ELEMENTARY SCHOOL 28040 - succeeded as a local result
+ELLENDALE ELEMENTARY 28681 - succeeded as a local result
+ELLERBE MIDDLE 28338 - succeeded as a local result
+ELM CITY MIDDLE 27822 - succeeded as a local result
+ELMHURST ELEMENTARY 27858 - succeeded as a local result
+ELON ELEMENTARY 27244 - succeeded as a local result
+ELON PARK ELEMENTARY 28277 - succeeded as a local result
+EMMA B TRASK MIDDLE 28405 - succeeded as a place result
+EMMA ELEMENTARY 28806 - succeeded as a local result
+EMSLEY A LANEY HIGH 28405 - succeeded as a place result
+ENDEAVOR CHARTER SCHOOL 27587 - succeeded as a place result
+ENDHAVEN ELEMENTARY 28277 - succeeded as a local result
+ENDY ELEMENTARY 28001 - succeeded as a local result
+ENFIELD MIDDLE S.T.E.A.M. ACADEMY 27823 - succeeded as a place result
+ENGLEWOOD ELEMENTARY 27804 - succeeded as a local result
+ENKA HIGH 28715 - succeeded as a local result
+ENKA MIDDLE 28715 - succeeded as a local result
+ENLOE HIGH 27610 - succeeded as a place result
+ENO RIVER ACADEMY 27278 - succeeded as a local result
+ENO VALLEY ELEMENTARY 27712 - succeeded as a local result
+ENOCHVILLE ELEMENTARY 28023 - succeeded as a local result
+ENVISION SCIENCE ACADEMY 27587 - succeeded as a local result
+EP PEARCE ELEMENTARY 27410 - succeeded as a local result
+EPHESUS ELEMENTARY 27517 - succeeded as a local result
+ERWIN ELEMENTARY AT GENTRY 28339 - succeeded as a local result
+ERWIN HIGH 28806 - succeeded as a local result
+ERWIN MIDDLE 28806 - succeeded as a local result
+ERWIN MIDDLE 28146 - succeeded as a local result
+ERWIN MONTESSORI 27406 - succeeded as a local result
+ESTES ELEMENTARY 28803 - succeeded as a local result
+ESTES HILLS ELEMENTARY 27514 - succeeded as a local result
+ETOWAH ELEMENTARY 28729 - succeeded as a local result
+EUGENE ASHLEY HIGH 28412 - succeeded as a local result
+EVERETTS ELEMENTARY S.T.E.M. ACADEMY 27870 FAILED 'local_results'
+EVERGREEN COMMUNITY CHARTER 28805 - succeeded as a local result
+EVERGREEN ELEMENTARY 28438 FAILED 'rating'
+FAIR GROVE ELEMENTARY 27360 - succeeded as a local result
+FAIRGROVE ELEMENTARY SCHOOL 28340 - succeeded as a local result
+FAIRMONT HIGH 28340 - succeeded as a local result
+FAIRMONT MIDDLE 28340 FAILED 'rating'
+FAIRVIEW ELEMENTARY 27801 - succeeded as a place result
+FAIRVIEW ELEMENTARY 28779 - succeeded as a local result
+FAIRVIEW ELEMENTARY 28730 - succeeded as a local result
+FAIRVIEW ELEMENTARY 28110 - succeeded as a place result
+FAIRVIEW ELEMENTARY 27260 - succeeded as a local result
+FAIRVIEW HEIGHTS ELEMENTARY 28345 - succeeded as a local result
+FAITH ELEMENTARY 28041 - succeeded as a local result
+FALKLAND ELEMENTARY 27834 - succeeded as a local result
+FALL CREEK ELEMENTARY 27018 - succeeded as a local result
+FALLS LAKE ACADEMY 27522 - succeeded as a local result
+FALLSTON ELEMENTARY 28042 - succeeded as a local result
+FARMER ELEMENTARY SCHOOL 27205 - succeeded as a local result
+FARMINGTON WOODS ELEMENTARY 27511 - succeeded as a local result
+FARMVILLE CENTRAL HIGH 27828 - succeeded as a local result
+FARMVILLE MIDDLE 27828 - succeeded as a local result
+FAYETTEVILLE STREET ELEMENTARY 27707 - succeeded as a local result
+FERGUSON-EASLEY ELEMENTARY 28301 - succeeded as a local result
+FERNDALE MIDDLE 27262 - succeeded as a local result
+FIKE HIGH 27893 - succeeded as a local result
+FIRST FLIGHT ELEMENTARY SCHOOL 27948 - succeeded as a place result
+FIRST FLIGHT HIGH SCHOOL 27948 - succeeded as a local result
+FIRST FLIGHT MIDDLE SCHOOL 27948 - succeeded as a place result
+FIRST WARD CREATIVE ARTS ACAD 28202 - succeeded as a place result
+FLAT ROCK ELEMENTARY 27030 - succeeded as a local result
+FLAT ROCK MIDDLE 27127 - succeeded as a local result
+FLAT ROCK MIDDLE 28726 - succeeded as a local result
+FLETCHER ELEMENTARY 28732 - succeeded as a local result
+FLORENCE ELEMENTARY 27265 - succeeded as a local result
+FLOYD L KNIGHT CHILDREN CENTER 27330 FAILED 'local_results'
+FORBUSH ELEMENTARY 27018 - succeeded as a local result
+FORBUSH HIGH 27018 - succeeded as a local result
+FORBUSH MIDDLE 27018 - succeeded as a local result
+FOREST CITY-DUNBAR ELEMENTARY SCHOOL 28043 - succeeded as a place result
+FOREST HILL ELEMENTARY 28655 - succeeded as a local result
+FOREST HILLS GLOBAL ELEMENTARY 28403 - succeeded as a place result
+FOREST HILLS HIGH 28103 - succeeded as a local result
+FOREST HILLS MIDDLE 27893 - succeeded as a local result
+FOREST PARK ELEMENTARY 28083 - succeeded as a local result
+FOREST PARK ELEMENTARY 27107 - succeeded as a local result
+FOREST PINES DRIVE ELEMENTARY 27614 - succeeded as a place result
+FOREST VIEW ELEMENTARY 27705 - succeeded as a local result
+FORESTVIEW HIGH 28056 - succeeded as a local result
+FORESTVILLE ROAD ELEMENTARY 27545 - succeeded as a local result
+FORREST W. HUNT ELEMENTARY SCHOOL 28043 - succeeded as a place result
+FORSYTH ACADEMY 27106 - succeeded as a place result
+FOUR OAKS ELEMENTARY 27524 - succeeded as a local result
+FOUR OAKS MIDDLE 27524 - succeeded as a local result
+FOX ROAD ELEMENTARY 27616 - succeeded as a local result
+FPG ELEMENTARY 27516 - succeeded as a local result
+FRANCINE DELANY NEW SCHOOL 28806 - succeeded as a place result
+FRANCIS BRADLEY MIDDLE 28078 - succeeded as a local result
+FRANK MORGAN ELEMENTARY 27012 - succeeded as a local result
+FRANKLIN ACADEMY 27587 - succeeded as a local result
+FRANKLIN COUNTY EARLY COLLEGE 27549 FAILED 'local_results'
+FRANKLIN ELEMENTARY 27030 - succeeded as a local result
+FRANKLIN HIGH 28734 - succeeded as a place result
+FRANKLINTON ELEMENTARY 27525 - succeeded as a local result
+FRANKLINTON HIGH 27525 - succeeded as a local result
+FRANKLINTON MIDDLE 27525 - succeeded as a local result
+FRANKLINVILLE ELEMENTARY SCHOOL 27248 FAILED 'rating'
+FRED A ANDERSON ELEMENTARY 28515 - succeeded as a place result
+FRED L WILSON ELEMENTARY 28081 - succeeded as a place result
+FRED T FOARD HIGH 28658 FAILED 'local_results'
+FREDERICK DOUGLASS ELEMENTARY 27822 - succeeded as a local result
+FREEDOM HIGH 28655 - succeeded as a place result
+FREEDOM TRAIL ELEMENTARY 28622 FAILED 'rating'
+FREMONT STARS ELEMENTARY 27830 - succeeded as a local result
+FRIEDBERG ELEMENTARY 27127 - succeeded as a local result
+FRIENDSHIP ELEMENTARY 27107 - succeeded as a local result
+FULLER ELEMENTARY 27529 - succeeded as a local result
+FUQUAY-VARINA ELEMENTARY 27526 - succeeded as a local result
+FUQUAY-VARINA HIGH 27526 - succeeded as a local result
+FUQUAY-VARINA MIDDLE 27526 - succeeded as a local result
+G R EDWARDS MIDDLE 27803 - succeeded as a place result
+G R WHITFIELD 27837 - succeeded as a local result
+G W BULLUCK ELEMENTARY 27801 - succeeded as a local result
+G W CARVER ELEMENTARY 27864 - succeeded as a local result
+G. C. HAWLEY MIDDLE 27522 - succeeded as a local result
+GALLBERRY FARM ELEMENTARY 28348 - succeeded as a local result
+GAMEWELL ELEMENTARY 28645 - succeeded as a local result
+GAMEWELL MIDDLE 28645 - succeeded as a local result
+GARDNER PARK ELEMENTARY 28054 - succeeded as a local result
+GARDNERS ELEMENTARY 27822 - succeeded as a local result
+GARINGER HIGH SCHOOL 28205 - succeeded as a local result
+GARNER HIGH 27529 - succeeded as a local result
+GASTON EARLY COLLEGE HIGH SCHOOL 28034 - succeeded as a local result
+GASTON ELEMENTARY 27832 - succeeded as a local result
+GASTON MIDDLE 27832 FAILED 'local_results'
+GATES COUNTY SENIOR HIGH 27938 - succeeded as a place result
+GATESVILLE ELEMENTARY 27938 - succeeded as a local result
+GATEWAY EDUCATION CENTER 27405 - succeeded as a local result
+GATEWAY SCHOOL 28630 FAILED 'rating'
+GC MIDDLE COLLEGE HIGH 27401 - succeeded as a place result
+GE MASSEY ELEMENTARY 28092 - succeeded as a local result
+GENERAL GREENE ELEMENTARY 27408 - succeeded as a local result
+GEORGE C SIMKINS JR ELEMENTARY 27406 - succeeded as a place result
+GEORGE HILDEBRAND ELEMENTARY 28612 - succeeded as a local result
+GEORGE L CARRINGTON MIDDLE 27712 - succeeded as a place result
+GEORGE WATTS ELEMENTARY 27701 - succeeded as a local result
+GERMANTON ELEMENTARY SCHOOL 27019 - succeeded as a local result
+GIBSON ELEMENTARY 27106 - succeeded as a local result
+GIBSONVILLE ELEMENTARY 27249 - succeeded as a local result
+GILLESPIE PARK ELEMENTARY 27406 - succeeded as a local result
+GLADE CREEK ELEMENTARY 28623 - succeeded as a local result
+GLEN ALPINE ELEMENTARY 28655 - succeeded as a local result
+GLEN ARDEN ELEMENTARY 28704 - succeeded as a place result
+GLENDALE ACRES ELEMENTARY 28304 - succeeded as a local result
+GLENDALE-KENLY ELEMENTARY 27542 - succeeded as a local result
+GLENN C MARLOW ELEMENTARY 28759 - succeeded as a place result
+GLENN ELEMENTARY 27704 - succeeded as a place result
+GLENWOOD ELEMENTARY 27517 - succeeded as a local result
+GLENWOOD ELEMENTARY SCHOOL 28752 - succeeded as a local result
+GLOBAL SCHOLARS ACADEMY 27701 - succeeded as a local result
+GOLDSBORO HIGH 27530 - succeeded as a local result
+GOUGE ELEMENTARY 28705 - succeeded as a local result
+GOV'S VILLAGE STEM (LOWER) 28262 - succeeded as a local result
+GOV'S VILLAGE STEM (UPPER) 28262 - succeeded as a place result
+GOV. MOREHEAD SCHOOL F/T BLIND 27606 - succeeded as a place result
+GRADY BROWN ELEMENTARY 27278 - succeeded as a local result
+GRAHAM A BARDEN ELEMENTARY 28532 - succeeded as a place result
+GRAHAM ELEMENTARY 28150 - succeeded as a place result
+GRAHAM HIGH 27253 - succeeded as a local result
+GRAHAM MIDDLE 27253 - succeeded as a local result
+GRAND OAK ELEMENTARY 28078 - succeeded as a local result
+GRANDVIEW MIDDLE 28602 - succeeded as a local result
+GRANDY PRIMARY 27921 - succeeded as a place result
+GRANITE FALLS ELEMENTARY 28630 - succeeded as a local result
+GRANITE FALLS MIDDLE 28630 - succeeded as a local result
+GRANITE QUARRY ELEMENTARY 28146 - succeeded as a local result
+GRANTHAM ELEMENTARY 27530 FAILED 'local_results'
+GRANVILLE CENTRAL HIGH 27581 - succeeded as a local result
+GRANVILLE EARLY COLLEGE HIGH 27522 - succeeded as a place result
+GRAVELLY HILL MIDDLE 27243 - succeeded as a local result
+GRAY STONE DAY 28109 - succeeded as a local result
+GRAY'S CREEK ELEMENTARY 28348 - succeeded as a local result
+GRAY'S CREEK HIGH 28348 - succeeded as a local result
+GRAY'S CREEK MIDDLE 28348 - succeeded as a local result
+GRAYS CHAPEL ELEMENTARY SCHOOL 27248 - succeeded as a place result
+GREEN ELEMENTARY 27609 - succeeded as a local result
+GREEN HOPE ELEMENTARY 27519 - succeeded as a local result
+GREEN HOPE HIGH 27519 - succeeded as a local result
+GREEN RIDGE ELEMENTARY 27209 - succeeded as a local result
+GREEN VALLEY ELEMENTARY 28607 - succeeded as a local result
+GREENE CENTRAL HIGH 28580 - succeeded as a local result
+GREENE COUNTY INTERMEDIATE 28580 - succeeded as a local result
+GREENE COUNTY MIDDLE 28580 - succeeded as a local result
+GREENE EARLY COLLEGE HIGH 28580 - succeeded as a place result
+GREENLEE PRIMARY 28777 FAILED 'local_results'
+GREENSBORO ACADEMY 27410 - succeeded as a local result
+GREENWAY PARK ELEMENTARY 28212 - succeeded as a local result
+GREENWOOD ELEMENTARY 27330 - succeeded as a local result
+GREENWOOD MIDDLE 27534 - succeeded as a local result
+GRIFFITH ELEMENTARY 27127 - succeeded as a local result
+GRIFTON 28530 FAILED 'rating'
+GRIMSLEY HIGH 27408 - succeeded as a local result
+GROVE PARK ELEMENTARY 27215 - succeeded as a local result
+GROVER C FIELDS MIDDLE 28560 - succeeded as a place result
+GROVER ELEMENTARY 28073 - succeeded as a local result
+GTCC MIDDLE COLLEGE HIGH 27282 - succeeded as a local result
+GUILFORD ELEMENTARY 27410 - succeeded as a local result
+GUILFORD PREPARATORY ACADEMY 27405 - succeeded as a local result
+GUY B TEACHEY ELEMENTARY 27205 - succeeded as a local result
+H B SUGG ELEMENTARY 27828 - succeeded as a local result
+H H BEAM ELEMENTARY 28052 - succeeded as a local result
+H J MACDONALD MIDDLE 28562 - succeeded as a local result
+H L TRIGG COMMUNITY 27909 - succeeded as a local result
+HALIWA-SAPONI TRIBAL SCHOOL 27844 - succeeded as a local result
+HALL FLETCHER ELEMENTARY 28806 - succeeded as a place result
+HALL-WOODWARD ELEMENTARY 27107 - succeeded as a local result
+HALLSBORO-ARTESIA ELEMENTARY 28442 - succeeded as a local result
+HALLYBURTON ACADEMY 28619 - succeeded as a local result
+HAMLET MIDDLE 28345 - succeeded as a local result
+HANES MAGNET SCHOOL 27107 - succeeded as a local result
+HAPPY VALLEY ELEMENTARY 28645 - succeeded as a local result
+HARDIN PARK ELEMENTARY 28607 - succeeded as a local result
+HARDING UNIVERSITY HIGH SCHOOL 28208 - succeeded as a place result
+HARGROVE ELEMENTARY 28341 - succeeded as a local result
+HARKERS ISLAND ELEMENTARY 28531 FAILED 'rating'
+HARMONY ELEMENTARY 28634 - succeeded as a local result
+HARNETT CENTRAL HIGH 27501 - succeeded as a local result
+HARNETT CENTRAL MIDDLE 27501 - succeeded as a place result
+HARNETT PRIMARY 28334 FAILED 'local_results'
+HAROLD E. WINKLER MIDDLE 28027 - succeeded as a place result
+HARPER MIDDLE COLLEGE HIGH 28273 - succeeded as a local result
+HARRIS CREEK ELEMENTARY 27616 - succeeded as a local result
+HARRIS ELEMENTARY SCHOOL 28043 - succeeded as a local result
+HARRIS MIDDLE 28777 - succeeded as a local result
+HARRIS ROAD MIDDLE 28027 - succeeded as a local result
+HARRISBURG ELEMENTARY 28075 - succeeded as a place result
+HARRY M ARNDT MIDDLE 28601 - succeeded as a place result
+HARVEY R NEWLIN ELEMENTARY 27215 - succeeded as a place result
+HASTY ELEMENTARY 27360 - succeeded as a local result
+HAVELOCK ELEMENTARY 28532 - succeeded as a local result
+HAVELOCK HIGH 28532 - succeeded as a local result
+HAVELOCK MIDDLE 28532 - succeeded as a local result
+HAW CREEK ELEMENTARY 28805 - succeeded as a local result
+HAW RIVER ELEMENTARY 27258 - succeeded as a local result
+HAWFIELDS MIDDLE 27302 - succeeded as a local result
+HAWK EYE ELEMENTARY 28377 - succeeded as a local result
+HAWK RIDGE ELEMENTARY 28277 - succeeded as a place result
+HAWTHORNE ACADEMY OF HEALTH SCIENCES 28205 - succeeded as a place result
+HAYESVILLE ELEMENTARY 28904 - succeeded as a local result
+HAYESVILLE HIGH 28904 - succeeded as a local result
+HAYESVILLE MIDDLE 28904 - succeeded as a local result
+HAYNES INMAN EDUCATION CENTER 27282 - succeeded as a place result
+HAYWOOD EARLY COLLEGE 28721 - succeeded as a local result
+HAZELWOOD ELEMENTARY 28786 - succeeded as a place result
+HEALTHY START ACADEMY 27701 - succeeded as a local result
+HEIDE TRASK HIGH 28457 - succeeded as a place result
+HELENA ELEMENTARY 27583 - succeeded as a local result
+HEMBY BRIDGE ELEMENTARY 28079 - succeeded as a local result
+HENDERSON COLLEGIATE 27536 - succeeded as a local result
+HENDERSON COUNTY CAREER ACADEMY 28731 FAILED 'rating'
+HENDERSON COUNTY EARLY COLLEGE 28731 - succeeded as a place result
+HENDERSON HIGH 28144 - succeeded as a local result
+HENDERSONVILLE ELEMENTARY 28791 - succeeded as a local result
+HENDERSONVILLE HIGH 28791 - succeeded as a local result
+HENDERSONVILLE MIDDLE 28791 - succeeded as a local result
+HERBERT AKINS RD ELEMENTARY 27526 - succeeded as a place result
+HERBIN METZ EDUCATION CENTER 27405 - succeeded as a place result
+HERITAGE ELEMENTARY 27587 - succeeded as a place result
+HERITAGE ELEMENTARY SCHOOL 28574 - succeeded as a local result
+HERITAGE HIGH 27587 - succeeded as a place result
+HERITAGE MIDDLE 27587 - succeeded as a place result
+HERITAGE MIDDLE 28690 - succeeded as a local result
+HERTFORD CO EARLY COLLEGE 27910 - succeeded as a place result
+HERTFORD COUNTY HIGH 27910 - succeeded as a local result
+HERTFORD COUNTY MIDDLE 27855 FAILED 'rating'
+HERTFORD GRAMMAR 27944 - succeeded as a local result
+HEYWARD C BELLAMY ELEM 28412 - succeeded as a place result
+HIBRITEN HIGH 28645 - succeeded as a local result
+HICKORY CAREER  ARTS MAGNET HIGH SCHOOL 28601 - succeeded as a place result
+HICKORY GROVE ELEMENTARY 28215 - succeeded as a local result
+HICKORY HIGH 28601 - succeeded as a place result
+HICKORY RIDGE HIGH 28075 - succeeded as a local result
+HICKORY RIDGE MIDDLE 28075 FAILED 'rating'
+HIDDEN VALLEY ELEMENTARY 28213 - succeeded as a local result
+HIDDENITE ELEMENTARY 28636 - succeeded as a local result
+HIGH POINT CENTRAL HIGH 27262 - succeeded as a place result
+HIGHCROFT ELEMENTARY 27519 - succeeded as a local result
+HIGHFALLS ELEMENTARY 27208 - succeeded as a local result
+HIGHLAND CREEK ELEMENTARY 28269 - succeeded as a local result
+HIGHLAND ELEMENTARY 27330 - succeeded as a local result
+HIGHLAND ELEMENTARY 27215 - succeeded as a place result
+HIGHLAND MIDDLE 27332 - succeeded as a local result
+HIGHLAND MILL MONTESSORI 28205 - succeeded as a local result
+HIGHLAND RENAISSANCE ACADEMY 28206 - succeeded as a local result
+HIGHLAND SCH OF TECHNOLOGY 28052 - succeeded as a local result
+HIGHLANDS SCHOOL 28741 - succeeded as a local result
+HILBURN DRIVE ACADEMY 27613 - succeeded as a place result
+HILDEBRAN ELEMENTARY 28637 - succeeded as a local result
+HILLANDALE ELEMENTARY 27705 - succeeded as a local result
+HILLANDALE ELEMENTARY 28726 - succeeded as a local result
+HILLCREST ELEMENTARY 27215 - succeeded as a local result
+HILLCREST ELEMENTARY 28655 - succeeded as a local result
+HILLSBOROUGH ELEMENTARY 27278 - succeeded as a local result
+HILLSIDE HIGH 27707 - succeeded as a local result
+HILLSIDE NEW TECH HIGH 27707 - succeeded as a local result
+HIWASSEE DAM ELEMENTARY/MIDDLE 28906 - succeeded as a place result
+HIWASSEE DAM HIGH 28906 - succeeded as a local result
+HOBBTON ELEMENTARY 28366 - succeeded as a local result
+HOBBTON HIGH 28366 - succeeded as a local result
+HOBBTON MIDDLE 28366 - succeeded as a local result
+HODGE ROAD ELEMENTARY 27545 - succeeded as a local result
+HOKE COUNTY HIGH 28376 - succeeded as a place result
+HOLBROOK MIDDLE 28098 - succeeded as a local result
+HOLLISTER ELEMENTARY LEADERSHIP ACADEMY 27844 - succeeded as a place result
+HOLLY GROVE ELEMENTARY 27540 - succeeded as a local result
+HOLLY GROVE MIDDLE 27540 - succeeded as a place result
+HOLLY RIDGE ELEMENTARY 27540 FAILED 'rating'
+HOLLY RIDGE MIDDLE 27540 - succeeded as a place result
+HOLLY SHELTER MIDDLE 28429 - succeeded as a local result
+HOLLY SPRINGS ELEMENTARY 27540 - succeeded as a local result
+HOLLY SPRINGS HIGH 27540 - succeeded as a local result
+HOLLY TREE ELEMENTARY 28409 - succeeded as a local result
+HOLT ELEMENTARY 27704 - succeeded as a local result
+HOLTON CAREER AND RESOURCE CENTER 27703 - succeeded as a place result
+HOMINY VALLEY ELEMENTARY 28715 - succeeded as a local result
+HOPE MIDDLE 27858 - succeeded as a local result
+HOPE MILLS MIDDLE 28348 - succeeded as a local result
+HOPE VALLEY ELEMENTARY 27707 - succeeded as a local result
+HOPEWELL ELEMENTARY SCHOOL 27370 - succeeded as a local result
+HOPEWELL HIGH SCHOOL 28078 - succeeded as a local result
+HORIZONS ELEMENTARY 28645 FAILED 'rating'
+HORNETS NEST ELEMENTARY 28216 - succeeded as a local result
+HORTON MIDDLE 27312 - succeeded as a local result
+HOT SPRINGS ELEMENTARY 28743 - succeeded as a local result
+HOWARD L HALL ELEMENTARY 28311 - succeeded as a place result
+HOWARD LEARNING ACADEMY 28306 - succeeded as a local result
+HUDSON ELEMENTARY 28638 - succeeded as a place result
+HUDSON MIDDLE 28638 - succeeded as a local result
+HUGH M CUMMINGS HIGH 27217 - succeeded as a place result
+HUNTER ELEMENTARY 27407 - succeeded as a local result
+HUNTER ELEMENTARY 27601 - succeeded as a local result
+HUNTER HUSS HIGH 28052 - succeeded as a local result
+HUNTERS CREEK ELEMENTARY 28546 - succeeded as a local result
+HUNTERS CREEK MIDDLE 28546 - succeeded as a local result
+HUNTERSVILLE ELEMENTARY 28078 - succeeded as a local result
+HUNTINGTOWNE FARMS ELEMENTARY 28210 - succeeded as a local result
+HUNTSVILLE ELEMENTARY 27025 - succeeded as a local result
+HURLEY ELEMENTARY 28147 - succeeded as a local result
+IBRAHAM ELEMENTARY 27105 - succeeded as a local result
+IC IMAGINE 28806 - succeeded as a local result
+ICARD ELEMENTARY 28612 - succeeded as a local result
+IDA RANKIN ELEMENTARY SCHOOL 28120 - succeeded as a place result
+IDLEWILD ELEMENTARY 28212 - succeeded as a local result
+INBORDEN ELEMENTARY S.T.E.A.M. ACADEMY 27823 - succeeded as a place result
+INDEPENDENCE HIGH SCHOOL 28227 - succeeded as a local result
+INDIAN TRAIL ELEMENTARY 28079 - succeeded as a place result
+INVEST COLLEGIATE TRANSFORM 28208 - succeeded as a local result
+IOTLA VALLEY ELEMENTARY 28734 - succeeded as a local result
+IRA B JONES ELEMENTARY 28804 - succeeded as a local result
+IRELAND DRIVE MIDDLE 28304 FAILED 'rating'
+IRON STATION ELEMENTARY 28080 - succeeded as a local result
+IRVING PARK ELEMENTARY 27408 - succeeded as a local result
+IRWIN ACADEMIC CENTER 28202 - succeeded as a local result
+ISAAC DICKSON ELEMENTARY 28801 - succeeded as a local result
+ISAAC M BEAR EARLY COLLEGE HIGH SCHOOL 28403 - succeeded as a place result
+ISENBERG ELEMENTARY 28147 - succeeded as a local result
+ISLAND MONTESSORI CHARTER SCHOOL 28412 - succeeded as a place result
+J B PAGE PRIMARY SCHOOL 28012 - succeeded as a place result
+J C SAWYER ELEMENTARY 27909 - succeeded as a local result
+J D CLEMENT EARLY COLLEGE HS 27707 - succeeded as a place result
+J E HOLMES MIDDLE 27288 - succeeded as a local result
+J F KENNEDY HIGH 27101 - succeeded as a local result
+J GLENN EDWARDS ELEMENTARY 27332 - succeeded as a place result
+J N FRIES MAGNET SCHOOL 28027 - succeeded as a place result
+J R INGRAM JR ELEMENTARY 27330 - succeeded as a place result
+J S WATERS SCHOOL 27252 - succeeded as a local result
+J SAM GENTRY MIDDLE 27030 - succeeded as a place result
+J T BARBER ELEMENTARY 28560 - succeeded as a local result
+J W COON ELEMENTARY 28304 - succeeded as a local result
+J W MCLAUCHLIN ELEMENTARY 28376 - succeeded as a local result
+J W PARKER MIDDLE 27801 - succeeded as a local result
+J W SEABROOK ELEMENTARY 28301 - succeeded as a local result
+J W TURLINGTON SCHOOL 28376 - succeeded as a place result
+J. C. ROE CENTER 28412 - succeeded as a local result
+J. F. WEBB HIGH 27565 - succeeded as a local result
+J. H. GUNN ELEMENTARY 28215 - succeeded as a local result
+J. M. ALEXANDER MIDDLE 28078 - succeeded as a local result
+J.V. WASHAM ELEMENTARY 28031 - succeeded as a local result
+JACK BRITT HIGH 28306 - succeeded as a place result
+JACKSON CO EARLY COLLEGE 28779 - succeeded as a place result
+JACKSON COMMUNITY SCHOOL 28779 - succeeded as a local result
+JACKSON MIDDLE 27403 FAILED 'local_results'
+JACKSON PARK ELEMENTARY 28083 - succeeded as a local result
+JACKSONVILLE COMMONS ELEM 28546 - succeeded as a place result
+JACKSONVILLE COMMONS MIDDLE 28546 - succeeded as a local result
+JACKSONVILLE HIGH 28540 - succeeded as a local result
+JACOBS FORK MIDDLE 28658 FAILED 'rating'
+JAMES B DUDLEY HIGH 27401 - succeeded as a place result
+JAMES E SHEPARD MIDDLE 27707 - succeeded as a place result
+JAMES HUNT HIGH 27893 - succeeded as a place result
+JAMES KENAN HIGH 28398 - succeeded as a local result
+JAMES LOVE ELEMENTARY 28152 - succeeded as a place result
+JAMES MARTIN MIDDLE 28262 - succeeded as a place result
+JAMES W SMITH ELEMENTARY 28523 - succeeded as a place result
+JAMES Y JOYNER ELEMENTARY 27408 - succeeded as a place result
+JAMESTOWN ELEMENTARY 27282 - succeeded as a local result
+JAMESTOWN MIDDLE 27282 - succeeded as a local result
+JAMESVILLE ELEMENTARY 27846 FAILED 'rating'
+JARVISBURG ELEMENTARY 27947 - succeeded as a local result
+JAY M ROBINSON HIGH 28027 - succeeded as a place result
+JAY M. ROBINSON MIDDLE 28277 - succeeded as a local result
+JEFFERSON ELEMENTARY 27106 FAILED 'rating'
+JEFFERSON ELEMENTARY 27410 - succeeded as a local result
+JEFFERSON ELEMENTARY 28150 - succeeded as a local result
+JEFFREYS GROVE ELEMENTARY 27612 - succeeded as a local result
+JESSE WHARTON ELEM 27455 - succeeded as a local result
+JESSIE MAE MONROE ELEMENTARY 28420 - succeeded as a place result
+JIMMY C DRAUGHN HIGH SCHOOL 28690 - succeeded as a place result
+JOHN A HOLMES HIGH 27932 - succeeded as a place result
+JOHN C TAYLOE ELEMENTARY 27889 - succeeded as a place result
+JOHN CHAVIS MIDDLE SCHOOL 28021 - succeeded as a place result
+JOHN J BLAIR ELEMENTARY 28405 - succeeded as a place result
+JOHN M MOREHEAD HIGH 27288 - succeeded as a place result
+JOHN R GRIFFIN MIDDLE 28304 - succeeded as a local result
+JOHN R LAWRENCE ELEMENTARY SCHOOL 27263 - succeeded as a local result
+JOHN SMALL ELEMENTARY 27889 - succeeded as a local result
+JOHN T HOGGARD HIGH 28403 - succeeded as a place result
+JOHN VAN LINDLEY ELEMENTARY 27403 - succeeded as a place result
+JOHN W DILLARD ACADEMY 27025 - succeeded as a place result
+JOHN W JONES ELEMENTARY 27893 - succeeded as a place result
+JOHNSON STREET GLOBAL STUDIES 27262 - succeeded as a place result
+JOHNSONVILLE ELEMENTARY 28326 - succeeded as a local result
+JOHNSTON CO EARLY COLLEGE ACADEMY 27577 - succeeded as a place result
+JOHNSTON ELEMENTARY 28806 - succeeded as a local result
+JONATHAN VALLEY ELEMENTARY 28785 - succeeded as a local result
+JONES DAIRY ELEMENTARY 27587 - succeeded as a local result
+JONES INTERMEDIATE 27030 - succeeded as a local result
+JONESVILLE ELEMENTARY 28642 - succeeded as a local result
+JORDAN MATTHEWS HIGH 27344 - succeeded as a local result
+JOSEPH W GRIER ACADEMY 28215 - succeeded as a place result
+JOYNER ELEMENTARY 27608 FAILED 'rating'
+JULIUS I FOUST ELEMENTARY 27406 - succeeded as a place result
+JUNALUSKA ELEMENTARY 28786 - succeeded as a local result
+JUNIUS H ROSE HIGH 27834 - succeeded as a place result
+KANNAPOLIS MIDDLE 28081 - succeeded as a local result
+KEARNS ACADEMY 27265 - succeeded as a local result
+KENANSVILLE ELEMENTARY 28349 - succeeded as a local result
+KENNEDY MIDDLE 28273 - succeeded as a local result
+KENSINGTON ELEMENTARY 28173 - succeeded as a local result
+KERNERSVILLE ELEMENTARY 27284 - succeeded as a local result
+KERNERSVILLE MIDDLE 27284 - succeeded as a local result
+KERNODLE MIDDLE 27410 - succeeded as a local result
+KESTREL HEIGHTS SCHOOL 27713 - succeeded as a local result
+KIMBERLEY PARK ELEMENTARY 27105 - succeeded as a local result
+KIMMEL FARM ELEMENTARY 27284 - succeeded as a local result
+KING ELEMENTARY SCHOOL 27021 - succeeded as a local result
+KINGS CREEK ELEMENTARY 28645 - succeeded as a local result
+KINGS MOUNTAIN HIGH 28086 - succeeded as a local result
+KINGS MOUNTAIN INTERMEDIATE 28086 - succeeded as a local result
+KINGS MOUNTAIN MIDDLE 28086 - succeeded as a local result
+KINGSWOOD ELEMENTARY 27513 - succeeded as a local result
+KINGSWOOD SCHOOL 27104 FAILED 'rating'
+KINSTON HIGH 28501 - succeeded as a local result
+KIPP CHARLOTTE 28215 - succeeded as a local result
+KIPP GASTON COLLEGE PREPARATORY 27832 - succeeded as a place result
+KIPP HALIFAX COLLEGE PREPARATORY 27839 - succeeded as a local result
+KIRKMAN PARK ELEMENTARY 27262 - succeeded as a local result
+KISER ELEMENTARY 28164 - succeeded as a local result
+KISER MIDDLE 27408 - succeeded as a local result
+KITTY HAWK ELEMENTARY SCHOOL 27949 - succeeded as a place result
+KNIGHTDALE ELEMENTARY 27545 - succeeded as a local result
+KNIGHTDALE HIGH 27545 - succeeded as a local result
+KNOLLWOOD ELEMENTARY 28147 - succeeded as a local result
+KNOTTS ISLAND ELEMENTARY 27950 - succeeded as a local result
+KNOX MIDDLE 28144 - succeeded as a local result
+KONNOAK ELEMENTARY 27127 - succeeded as a local result
+KOONTZ ELEMENTARY 28146 - succeeded as a local result
+KOONTZ INTERMEDIATE 28803 FAILED 'rating'
+L B YANCEY ELEMENTARY 27536 - succeeded as a local result
+L GILBERT CARROLL 28358 - succeeded as a local result
+L J BELL ELEMENTARY 28379 - succeeded as a local result
+LA GRANGE ELEMENTARY 28551 - succeeded as a local result
+LACY ELEMENTARY 27607 - succeeded as a local result
+LAFAYETTE ELEMENTARY 27526 - succeeded as a local result
+LAKE FOREST ACADEMY 28401 - succeeded as a local result
+LAKE LURE CLASSICAL ACADEMY 28746 - succeeded as a place result
+LAKE MYRA ELEMENTARY 27591 - succeeded as a local result
+LAKE NORMAN CHARTER 28078 - succeeded as a local result
+LAKE NORMAN ELEMENTARY 28117 - succeeded as a local result
+LAKE NORMAN HIGH 28117 - succeeded as a local result
+LAKE RIM ELEMENTARY 28314 - succeeded as a local result
+LAKE WYLIE ELEMENTARY 28273 - succeeded as a local result
+LAKEFOREST ELEMENTARY 27834 - succeeded as a local result
+LAKESHORE ELEMENTARY 28117 - succeeded as a local result
+LAKESHORE MIDDLE 28117 - succeeded as a local result
+LAKESIDE CHARTER ACADEMY 28031 - succeeded as a local result
+LAKEVIEW SCHOOL 27704 - succeeded as a local result
+LAKEWOOD ELEMENTARY 27707 - succeeded as a place result
+LAKEWOOD HIGH 28385 - succeeded as a local result
+LAKEWOOD MONTESSORI MIDDLE 27707 - succeeded as a local result
+LANDIS ELEMENTARY 28088 - succeeded as a local result
+LANGDON C KERR ELEMENTARY 28328 - succeeded as a place result
+LANGTREE CHARTER ACADEMY 28117 - succeeded as a local result
+LANSDOWNE ELEMENTARY 28270 - succeeded as a local result
+LAUREL HILL ELEMENTARY 28351 - succeeded as a local result
+LAUREL MILL ELEMENTARY 27549 - succeeded as a place result
+LAUREL PARK ELEMENTARY 27523 - succeeded as a local result
+LAWSONVILLE ELEMENTARY SCHOOL 27022 - succeeded as a place result
+LCST 28092 FAILED 'local_results'
+LEAD MINE ELEMENTARY 27615 - succeeded as a local result
+LEAKSVILLE-SPRAY ELEMENTARY 27288 - succeeded as a local result
+LEBANON ROAD ELEMENTARY 28227 - succeeded as a local result
+LEDFORD MIDDLE 27360 - succeeded as a local result
+LEDFORD SENIOR HIGH 27360 - succeeded as a local result
+LEE COUNTY HIGH 27330 - succeeded as a local result
+LEE EARLY COLLEGE 27330 - succeeded as a local result
+LEE WOODARD ELEMENTARY 27813 - succeeded as a local result
+LEESVILLE ROAD ELEMENTARY 27613 - succeeded as a local result
+LEESVILLE ROAD HIGH 27613 - succeeded as a local result
+LEESVILLE ROAD MIDDLE 27613 - succeeded as a local result
+LEICESTER ELEMENTARY 28748 - succeeded as a local result
+LELAND MIDDLE 28451 - succeeded as a local result
+LENOIR COUNTY EARLY COLLEGE HIGH 28502 - succeeded as a local result
+LENOIR COUNTY LEARNING ACADEMY 28504 - succeeded as a place result
+LEVEL CROSS ELEMENTARY SCHOOL 27317 - succeeded as a place result
+LEVINE MIDDLE COLLEGE HIGH SCH 28105 - succeeded as a place result
+LEWIS CHAPEL MIDDLE 28314 - succeeded as a local result
+LEWISVILLE ELEMENTARY 27023 - succeeded as a local result
+LEXINGTON MIDDLE SCHOOL 27292 - succeeded as a local result
+LEXINGTON SENIOR HIGH SCHOOL 27292 - succeeded as a place result
+LIBERTY DRIVE ELEMENTARY 27360 - succeeded as a local result
+LIBERTY ELEMENTARY SCHOOL 27298 - succeeded as a local result
+LIBERTY MIDDLE 28655 - succeeded as a place result
+LIGON MIDDLE 27601 - succeeded as a local result
+LILESVILLE ELEMENTARY 28091 - succeeded as a local result
+LILLIAN BLACK ELEMENTARY 28390 - succeeded as a local result
+LILLINGTON-SHAWTOWN ELEMENTARY 27546 - succeeded as a local result
+LINCOLN ACADEMY 27401 - succeeded as a local result
+LINCOLN CHARTER SCHOOL 28037 FAILED 'rating'
+LINCOLN ELEMENTARY 27326 - succeeded as a local result
+LINCOLN ELEMENTARY 28451 - succeeded as a local result
+LINCOLN HEIGHTS ELEMENTARY 27526 - succeeded as a local result
+LINCOLNTON HIGH 28092 - succeeded as a local result
+LINCOLNTON MIDDLE 28092 - succeeded as a local result
+LINDLEY PARK ELEMENTARY 27203 - succeeded as a local result
+LINGERFELDT ELEMENTARY 28052 FAILED 'rating'
+LITTLE RIVER K-8 SCHOOL 27712 - succeeded as a place result
+LITTLEFIELD MIDDLE 28358 - succeeded as a local result
+LOCKHART ELEMENTARY 27545 - succeeded as a local result
+LOCUST ELEMENTARY 28097 - succeeded as a local result
+LONDON ELEMENTARY SCHOOL 27052 - succeeded as a local result
+LONG BRANCH ELEMENTARY 28358 - succeeded as a place result
+LONG CREEK ELEMENTARY 28078 - succeeded as a local result
+LONG HILL ELEMENTARY 28311 - succeeded as a local result
+LONG MILL ELEMENTARY 27596 - succeeded as a place result
+LONGLEAF SCHOOL OF THE ARTS 27603 - succeeded as a place result
+LONGVIEW 27610 FAILED 'local_results'
+LONGVIEW ELEMENTARY 28602 - succeeded as a local result
+LOUISBURG ELEMENTARY 27549 - succeeded as a local result
+LOUISBURG HIGH 27549 - succeeded as a local result
+LOVE MEMORIAL ELEMENTARY 28092 - succeeded as a local result
+LOWE'S GROVE MIDDLE 27713 - succeeded as a local result
+LOWELL ELEMENTARY 28098 - succeeded as a local result
+LOWER CREEK ELEMENTARY 28645 - succeeded as a local result
+LOWRANCE MIDDLE 27105 - succeeded as a local result
+LOYD E AUMAN ELEMENTARY 28304 - succeeded as a place result
+LUCAMA ELEMENTARY 27851 - succeeded as a local result
+LUCAS MIDDLE 27704 FAILED 'local_results'
+LUCILE SOUDERS ELEMENTARY 28301 - succeeded as a local result
+LUCY RAGSDALE HIGH 27282 - succeeded as a local result
+LUFKIN ROAD MIDDLE 27539 - succeeded as a local result
+LUMBERTON JUNIOR 28358 - succeeded as a local result
+LUMBERTON SENIOR HIGH 28358 - succeeded as a local result
+LUTHER NICK JERALDS MIDDLE 28301 - succeeded as a place result
+LYLE CREEK ELEMENTARY 28613 - succeeded as a local result
+LYNN ROAD ELEMENTARY 27612 - succeeded as a local result
+M B HUBBARD ELEMENTARY 27809 - succeeded as a local result
+M C S NOBLE MIDDLE 28405 - succeeded as a local result
+MABEL ELEMENTARY 28698 - succeeded as a local result
+MAC WILLIAMS MIDDLE 28312 - succeeded as a local result
+MACON EARLY COLLEGE HIGH SCHOOL 28734 - succeeded as a place result
+MACON MIDDLE SCHOOL 28734 - succeeded as a local result
+MADISON EARLY COLLEGE HIGH 28753 - succeeded as a place result
+MADISON ELEMENTARY 27301 - succeeded as a local result
+MADISON HIGH SCHOOL 28753 FAILED 'rating'
+MADISON MIDDLE SCHOOL 28753 - succeeded as a local result
+MAGELLAN CHARTER 27615 - succeeded as a local result
+MAGNOLIA ELEMENTARY 28360 - succeeded as a place result
+MAIDEN ELEMENTARY 28650 - succeeded as a local result
+MAIDEN HIGH 28650 - succeeded as a local result
+MAIDEN MIDDLE SCHOOL 28650 - succeeded as a local result
+MAIN STREET ACADEMY 27127 - succeeded as a local result
+MALLARD CREEK ELEMENTARY 28262 - succeeded as a local result
+MALLARD CREEK HIGH SCHOOL 28269 - succeeded as a place result
+MALPASS CORNER ELEMENTARY 28425 - succeeded as a local result
+MANCHESTER ELEMENTARY 28390 - succeeded as a local result
+MANGUM ELEMENTARY 27503 - succeeded as a local result
+MANNING ELEMENTARY SCHOOL 27870 - succeeded as a place result
+MANTEO ELEMENTARY SCHOOL 27954 - succeeded as a local result
+MANTEO HIGH SCHOOL 27954 - succeeded as a place result
+MANTEO MIDDLE SCHOOL 27954 - succeeded as a local result
+MARGARET B. POLLARD MIDDLE 27516 - succeeded as a place result
+MARGARET HEARNE ELEMENTARY 27893 - succeeded as a local result
+MARGARET WILLIS ELEMENTARY 28305 - succeeded as a local result
+MARIAM BOYD ELEMENTARY 27589 - succeeded as a local result
+MARION ELEMENTARY 28150 - succeeded as a local result
+MARION ELEMENTARY SCHOOL 28752 - succeeded as a local result
+MARJORIE WILLIAMS ACADEMY 28616 - succeeded as a place result
+MARS HILL ELEMENTARY 28754 - succeeded as a local result
+MARSHVILLE ELEMENTARY 28103 - succeeded as a local result
+MARTIN LUTHER KING JR MIDDLE 28213 - succeeded as a local result
+MARTIN MIDDLE 27607 FAILED 'local_results'
+MARTINS CREEK ELEMENTARY/MID 28906 - succeeded as a local result
+MARVIN B SMITH ELEMENTARY 27215 - succeeded as a place result
+MARVIN ELEMENTARY 28173 - succeeded as a local result
+MARVIN RIDGE HIGH 28173 FAILED 'rating'
+MARVIN RIDGE MIDDLE 28173 - succeeded as a local result
+MARY C WILLIAMS ELEMENTARY 28412 - succeeded as a place result
+MARY MCARTHUR ELEMENTARY 28304 - succeeded as a local result
+MASSEY HILL CLASSICAL HIGH 28306 - succeeded as a place result
+MATTAMUSKEET EARLY COLLEGE HIGH 27885 - succeeded as a place result
+MATTAMUSKEET ELEMENTARY 27885 - succeeded as a local result
+MATTHEWS ELEMENTARY 28105 - succeeded as a local result
+MAUREEN JOY CHARTER SCHOOL 27703 - succeeded as a place result
+MAYLAND EARLY COLLEGE 28777 FAILED 'rating'
+MAYSVILLE ELEMENTARY 28555 - succeeded as a local result
+MCADENVILLE ELEMENTARY 28101 - succeeded as a local result
+MCALPINE ELEMENTARY 28277 - succeeded as a place result
+MCCLINTOCK MIDDLE 28212 - succeeded as a local result
+MCDOUGLE ELEMENTARY 27516 - succeeded as a local result
+MCDOUGLE MIDDLE 27516 - succeeded as a local result
+MCDOWELL EARLY COLLEGE 28752 - succeeded as a local result
+MCDOWELL HIGH SCHOOL 28752 - succeeded as a local result
+MCGEE'S CROSSROADS ELEM 27501 - succeeded as a local result
+MCGEE'S CROSSROADS MIDDLE 27504 - succeeded as a local result
+MCKEE ROAD ELEMENTARY 28270 - succeeded as a local result
+MCLEANSVILLE ELEMENTARY 27301 - succeeded as a local result
+MEADOW LANE ELEMENTARY 27534 - succeeded as a place result
+MEADOW SCHOOL 27504 - succeeded as a local result
+MEADOW VIEW ELEMENTARY 28540 - succeeded as a place result
+MEADOWBROOK ACADEMY 27021 - succeeded as a local result
+MEADOWBROOK ELEMENTARY 28716 - succeeded as a local result
+MEADOWLARK ELEMENTARY 27106 - succeeded as a local result
+MEADOWLARK MIDDLE 27106 - succeeded as a place result
+MEADOWVIEW MAGNET MIDDLE 27030 - succeeded as a local result
+MENDENHALL MIDDLE 27408 - succeeded as a local result
+MERRICK-MOORE ELEMENTARY 27704 - succeeded as a place result
+MERRY OAKS INTERNATIONAL ACAD 28205 - succeeded as a place result
+METRO SCHOOL 28202 - succeeded as a local result
+METROLINA REG SCHOLARS ACADEMY 28217 - succeeded as a place result
+MICAVILLE ELEMENTARY 28714 - succeeded as a local result
+MIDDLE COLLEGE 28801 FAILED 'rating'
+MIDDLE COLLEGE AT GTCC-GREENSBORO 27405 - succeeded as a local result
+MIDDLE COLLEGE AT GTCC-HIGH POINT 27260 FAILED 'rating'
+MIDDLE COLLEGE AT NC A&T 27411 - succeeded as a local result
+MIDDLE COLLEGE HIGH AT BENNETT 27406 - succeeded as a local result
+MIDDLE COLLEGE HS @ DTCC 27703 - succeeded as a local result
+MIDDLE COLLEGE OF FORSYTH CNTY 27103 - succeeded as a place result
+MIDDLE CREEK ELEMENTARY 27539 - succeeded as a local result
+MIDDLE CREEK HIGH 27539 - succeeded as a place result
+MIDDLESEX ELEMENTARY 27557 - succeeded as a local result
+MIDWAY ELEMENTARY 28334 - succeeded as a local result
+MIDWAY ELEMENTARY 27295 - succeeded as a local result
+MIDWAY HIGH 28366 - succeeded as a local result
+MIDWAY MIDDLE 28334 - succeeded as a local result
+MILITARY AND GLOBAL LEADERSHIP 28205 - succeeded as a local result
+MILL CREEK MIDDLE 28610 - succeeded as a local result
+MILLBRIDGE ELEMENTARY 28023 - succeeded as a local result
+MILLBROOK ELEMENTARY 27609 - succeeded as a place result
+MILLBROOK HIGH 27615 - succeeded as a place result
+MILLENNIUM CHARTER ACADEMY 27030 - succeeded as a local result
+MILLERS CREEK ELEMENTARY SCHOOL 28651 - succeeded as a place result
+MILLINGPORT ELEMENTARY 28001 - succeeded as a local result
+MILLIS ROAD ELEMENTARY 27282 - succeeded as a place result
+MILLS PARK ELEMENTARY 27519 - succeeded as a local result
+MILLS PARK MIDDLE 27519 - succeeded as a place result
+MILLS RIVER ELEMENTARY 28759 - succeeded as a local result
+MILTON M DANIELS LEARNING CENTER 27893 - succeeded as a place result
+MINERAL SPRINGS ELEMENTARY 27105 - succeeded as a local result
+MINERAL SPRINGS ELEMENTARY 28338 - succeeded as a local result
+MINERAL SPRINGS MIDDLE 27105 - succeeded as a local result
+MINT HILL MIDDLE 28105 - succeeded as a local result
+MITCHELL HIGH 28705 - succeeded as a local result
+MOCKSVILLE ELEMENTARY 27028 - succeeded as a local result
+MONCURE SCHOOL 27559 - succeeded as a local result
+MONROE AVENUE ELEMENTARY 28345 - succeeded as a local result
+MONROE HIGH 28112 - succeeded as a local result
+MONROE MIDDLE 28112 - succeeded as a local result
+MONROETON ELEMENTARY 27320 - succeeded as a local result
+MONTCLAIR ELEMENTARY 28314 - succeeded as a local result
+MONTCLAIRE ELEMENTARY 28210 - succeeded as a local result
+MONTGOMERY LEARNING ACADEMY 27371 - succeeded as a local result
+MONTICELLO-BROWN SUMMIT ELEM 27214 - succeeded as a place result
+MONTLIEU ACADEMY OF TECHNOLOGY 27262 - succeeded as a place result
+MOORE MAGNET ELEMENTARY 27103 - succeeded as a local result
+MOORE SQUARE MIDDLE 27601 - succeeded as a local result
+MOORESVILLE HIGH SCHOOL 28115 - succeeded as a local result
+MOORESVILLE INTERMEDIATE 28115 - succeeded as a local result
+MOORESVILLE MIDDLE 28115 - succeeded as a local result
+MORAVIAN FALLS ELEMENTARY SCHOOL 28654 FAILED 'local_results'
+MOREHEAD CITY MIDDLE 28557 - succeeded as a local result
+MOREHEAD CITY PRIMARY 28557 FAILED 'rating'
+MOREHEAD ELEM AT CAMP GLENN 28557 - succeeded as a local result
+MOREHEAD ELEMENTARY 27410 - succeeded as a local result
+MOREHEAD MONTESSORI 27707 - succeeded as a local result
+MORGAN ELEMENTARY 28071 - succeeded as a local result
+MORGANTON ROAD ELEMENTARY 28303 FAILED 'rating'
+MORRIS GROVE ELEMENTARY 27516 - succeeded as a local result
+MORRISVILLE ELEMENTARY 27560 - succeeded as a local result
+MORTON ELEMENTARY 28546 - succeeded as a place result
+MORVEN ELEMENTARY 28119 - succeeded as a local result
+MOSS HILL ELEMENTARY 28504 FAILED 'rating'
+MOUNT AIRY HIGH 27030 - succeeded as a local result
+MOUNT AIRY MIDDLE 27030 - succeeded as a local result
+MOUNT ENERGY ELEMENTARY 27522 - succeeded as a local result
+MOUNT GILEAD ELEMENTARY 27306 - succeeded as a local result
+MOUNT HOLLY MIDDLE 28120 - succeeded as a local result
+MOUNT OLIVE ELEMENTARY SCHOOL 27021 - succeeded as a place result
+MOUNT OLIVE MIDDLE 28365 - succeeded as a local result
+MOUNT PLEASANT ELEMENTARY 28124 - succeeded as a local result
+MOUNT PLEASANT ELEMENTARY SCHOOL 28624 - succeeded as a local result
+MOUNT PLEASANT HIGH 28124 - succeeded as a local result
+MOUNT PLEASANT MIDDLE 28124 - succeeded as a local result
+MOUNT TABOR HIGH SCHOOL 27106 - succeeded as a place result
+MOUNT VERNON 27607 - succeeded as a local result
+MOUNTAIN DISCOVERY 28713 - succeeded as a local result
+MOUNTAIN HERITAGE HIGH 28714 - succeeded as a local result
+MOUNTAIN ISLAND CHARTER SCHOOL 28120 - succeeded as a local result
+MOUNTAIN ISLAND LAKE ACADEMY 28216 - succeeded as a local result
+MOUNTAIN PARK ELEMENTARY 28676 - succeeded as a local result
+MOUNTAIN VIEW ELEMENTARY 28640 - succeeded as a local result
+MOUNTAIN VIEW ELEMENTARY 28602 - succeeded as a place result
+MOUNTAIN VIEW ELEMENTARY SCHOOL 28635 - succeeded as a local result
+MOUNTAIN VIEW INTERMEDIATE 28734 - succeeded as a local result
+MOYOCK ELEMENTARY 27958 - succeeded as a local result
+MOYOCK MIDDLE 27958 - succeeded as a local result
+MT ULLA ELEMENTARY 28125 - succeeded as a local result
+MT. VERNON-RUTH ELEMENTARY SCHOOL 28043 - succeeded as a place result
+MULBERRY ELEMENTARY SCHOOL 28659 - succeeded as a local result
+MULL ELEMENTARY 28655 - succeeded as a local result
+MURPHEY TRADITIONAL ACADEMY 27403 - succeeded as a local result
+MURPHY ELEMENTARY 28906 - succeeded as a local result
+MURPHY HIGH 28906 - succeeded as a local result
+MURPHY MIDDLE 28906 - succeeded as a local result
+MURRAYVILLE ELEMENTARY 28411 - succeeded as a local result
+MYERS PARK HIGH SCHOOL 28209 - succeeded as a place result
+MYERS PARK TRADITIONAL ELEM 28207 - succeeded as a place result
+MYRTLE GROVE MIDDLE 28409 - succeeded as a local result
+N B MILLS ELEMENTARY 28677 - succeeded as a local result
+N L DILLARD MIDDLE 27379 - succeeded as a local result
+NAGS HEAD ELEMENTARY SCHOOL 27959 - succeeded as a place result
+NAKINA MIDDLE 28455 - succeeded as a local result
+NANCY REYNOLDS ELEMENTARY SCHOOL 27053 - succeeded as a place result
+NANTAHALA SCHOOL 28781 - succeeded as a local result
+NASH CENTRAL HIGH 27804 FAILED 'rating'
+NASH CENTRAL MIDDLE 27856 - succeeded as a local result
+NASHVILLE ELEMENTARY 27856 - succeeded as a local result
+NATHANAEL GREENE ELEMENTARY 27298 - succeeded as a local result
+NATIONS FORD ELEMENTARY 28217 - succeeded as a local result
+NC LEADERSHIP CHARTER ACADEMY 27284 - succeeded as a place result
+NC SCHOOL FOR THE DEAF 28655 - succeeded as a local result
+NCVPS 27606 - succeeded as a local result
+NEAL MIDDLE 27704 - succeeded as a local result
+NEBO ELEMENTARY SCHOOL 28761 - succeeded as a local result
+NEEDHAM BROUGHTON HIGH 27605 - succeeded as a local result
+NESBITT DISCOVERY ACADEMY 28806 - succeeded as a local result
+NEUSE CHARTER SCHOOL 27577 - succeeded as a local result
+NEUSE RIVER MIDDLE 27604 - succeeded as a local result
+NEW BERN HIGH 28562 - succeeded as a local result
+NEW BRIDGE MIDDLE 28540 - succeeded as a local result
+NEW CENTURY INTERNATIONAL ELEMENTARY 28306 - succeeded as a place result
+NEW CENTURY INTERNATIONAL MIDDLE 28306 - succeeded as a local result
+NEW CENTURY MIDDLE 28326 - succeeded as a local result
+NEW DIMENSIONS 28655 - succeeded as a place result
+NEW HANOVER HIGH 28401 - succeeded as a local result
+NEW HOPE ELEMENTARY 28056 - succeeded as a place result
+NEW HOPE ELEMENTARY 27896 - succeeded as a local result
+NEW HOPE ELEMENTARY 27537 FAILED 'rating'
+NEW HOPE ELEMENTARY 27514 - succeeded as a local result
+NEW MARKET ELEMENTARY SCHOOL 27350 - succeeded as a place result
+NEW SALEM ELEMENTARY 28103 - succeeded as a local result
+NEW TOWN ELEMENTARY 28173 - succeeded as a local result
+NEWELL ELEMENTARY 28213 - succeeded as a local result
+NEWLAND ELEMENTARY 28657 - succeeded as a local result
+NEWPORT ELEMENTARY 28570 - succeeded as a local result
+NEWPORT MIDDLE 28570 - succeeded as a local result
+NEWTON-CONOVER HIGH 28658 - succeeded as a local result
+NEWTON-CONOVER MIDDLE 28613 - succeeded as a local result
+NF WOODS CAMPUS 28115 - succeeded as a local result
+NORTH ASHEBORO MIDDLE 27203 - succeeded as a local result
+NORTH BELMONT ELEMENTARY 28012 - succeeded as a local result
+NORTH BROOK ELEMENTARY 28168 - succeeded as a local result
+NORTH BRUNSWICK HIGH 28451 - succeeded as a local result
+NORTH BUNCOMBE ELEMENTARY 28787 - succeeded as a local result
+NORTH BUNCOMBE HIGH 28787 - succeeded as a place result
+NORTH BUNCOMBE MIDDLE 28787 - succeeded as a local result
+NORTH CANTON ELEMENTARY 28716 - succeeded as a local result
+NORTH CHATHAM ELEMENTARY 27517 - succeeded as a local result
+NORTH COVE ELEMENTARY SCHOOL 28752 - succeeded as a place result
+NORTH DAVIDSON HIGH 27295 - succeeded as a local result
+NORTH DAVIDSON MIDDLE 27295 - succeeded as a local result
+NORTH DAVIE MIDDLE 27028 - succeeded as a local result
+NORTH DRIVE ELEMENTARY 27530 - succeeded as a local result
+NORTH DUPLIN ELEMENTARY 28365 - succeeded as a place result
+NORTH DUPLIN JR SR HIGH 28365 - succeeded as a place result
+NORTH EAST CAROLINA PREP 27886 - succeeded as a local result
+NORTH EDGECOMBE HIGH 27886 - succeeded as a local result
+NORTH ELEMENTARY 27315 - succeeded as a local result
+NORTH ELEMENTARY 28086 - succeeded as a local result
+NORTH ELEMENTARY 27573 - succeeded as a local result
+NORTH END ELEMENTARY 27574 FAILED 'rating'
+NORTH FOREST PINES ELEMENTARY 27614 - succeeded as a place result
+NORTH FORSYTH HIGH 27105 - succeeded as a local result
+NORTH GARNER MIDDLE 27529 - succeeded as a local result
+NORTH GASTON HIGH 28034 - succeeded as a local result
+NORTH GRAHAM ELEMENTARY 27253 - succeeded as a local result
+NORTH HARNETT PRIMARY 27501 - succeeded as a local result
+NORTH HENDERSON HIGH 28792 - succeeded as a local result
+NORTH HILLS ELEMENTARY 27105 - succeeded as a local result
+NORTH IREDELL HIGH 28660 - succeeded as a local result
+NORTH IREDELL MIDDLE 28660 - succeeded as a local result
+NORTH JOHNSTON HIGH 27542 - succeeded as a local result
+NORTH JOHNSTON MIDDLE 27555 - succeeded as a local result
+NORTH KANNAPOLIS ELEMENTARY 28081 - succeeded as a local result
+NORTH LENOIR HIGH 28551 - succeeded as a local result
+NORTH LIBERTY 28655 - succeeded as a local result
+NORTH LINCOLN HIGH 28092 - succeeded as a local result
+NORTH LINCOLN MIDDLE 28037 - succeeded as a local result
+NORTH MECKLENBURG HIGH SCHOOL 28078 - succeeded as a place result
+NORTH MOORE HIGH 27325 - succeeded as a local result
+NORTH NEWTON ELEMENTARY 28658 - succeeded as a local result
+NORTH PITT HIGH 27812 - succeeded as a local result
+NORTH RIDGE ELEMENTARY 27615 - succeeded as a local result
+NORTH ROWAN ELEMENTARY 28159 - succeeded as a local result
+NORTH ROWAN HIGH 28159 - succeeded as a local result
+NORTH ROWAN MIDDLE 28159 - succeeded as a local result
+NORTH SHELBY 28152 - succeeded as a local result
+NORTH STANLY HIGH 28127 - succeeded as a local result
+NORTH STANLY MIDDLE 28127 - succeeded as a local result
+NORTH STOKES HIGH SCHOOL 27016 - succeeded as a place result
+NORTH SURRY HIGH 27030 FAILED 'rating'
+NORTH TOPSAIL ELEMENTARY 28443 - succeeded as a local result
+NORTH WHITEVILLE ACADEMY 28472 FAILED 'rating'
+NORTH WILKES HIGH SCHOOL 28635 - succeeded as a place result
+NORTH WILKES MIDDLE SCHOOL 28659 - succeeded as a place result
+NORTH WILKESBORO ELEMENTARY SCHOOL 28659 - succeeded as a place result
+NORTH WINDY RIDGE INTERMEDIATE 28787 - succeeded as a place result
+NORTHAMPTON COUNTY HIGH SCHOOL 27832 - succeeded as a local result
+NORTHEAST ELEMENTARY 28501 - succeeded as a local result
+NORTHEAST ELEMENTARY 27863 - succeeded as a local result
+NORTHEAST ELEMENTARY 27865 - succeeded as a local result
+NORTHEAST GUILFORD HIGH 27301 - succeeded as a local result
+NORTHEAST GUILFORD MIDDLE 27301 - succeeded as a local result
+NORTHEAST MIDDLE 28227 - succeeded as a local result
+NORTHEAST REGIONAL SCHOOL - BIOTECH/AGRI 27846 - succeeded as a place result
+NORTHEASTERN HIGH 27909 - succeeded as a local result
+NORTHEASTERN RANDOLPH MIDDLE SCHOOL 27298 - succeeded as a place result
+NORTHERN GRANVILLE MIDDLE 27565 - succeeded as a local result
+NORTHERN GUILFORD ELEMENTARY 27455 - succeeded as a local result
+NORTHERN GUILFORD HIGH 27455 - succeeded as a local result
+NORTHERN GUILFORD MIDDLE 27455 - succeeded as a local result
+NORTHERN HIGH 27712 - succeeded as a local result
+NORTHERN MIDDLE 27574 - succeeded as a local result
+NORTHERN NASH HIGH 27804 - succeeded as a local result
+NORTHRIDGE MIDDLE 28215 - succeeded as a local result
+NORTHSIDE ELEMENTARY 27516 - succeeded as a place result
+NORTHSIDE ELEMENTARY 27909 - succeeded as a place result
+NORTHSIDE HIGH 28546 - succeeded as a place result
+NORTHSIDE HIGH 27865 - succeeded as a local result
+NORTHSIDE K-8 27563 FAILED 'local_results'
+NORTHVIEW MIDDLE 28601 - succeeded as a local result
+NORTHVIEW SCHOOL 28677 FAILED 'rating'
+NORTHWEST CABARRUS HIGH 28027 - succeeded as a local result
+NORTHWEST CABARRUS MIDDLE 28027 - succeeded as a local result
+NORTHWEST ELEMENTARY 27834 - succeeded as a local result
+NORTHWEST ELEMENTARY 27863 - succeeded as a local result
+NORTHWEST ELEMENTARY 28504 - succeeded as a local result
+NORTHWEST ELEMENTARY 27295 FAILED 'local_results'
+NORTHWEST GUILFORD HIGH 27409 - succeeded as a local result
+NORTHWEST GUILFORD MIDDLE 27409 - succeeded as a local result
+NORTHWEST HALIFAX COLLEGIATE AND TECHNIC 27850 - succeeded as a place result
+NORTHWEST MIDDLE 27106 - succeeded as a local result
+NORTHWEST SCHOOL OF THE ARTS 28216 - succeeded as a place result
+NORTHWOOD ELEMENTARY 27262 - succeeded as a local result
+NORTHWOOD HIGH 27312 - succeeded as a local result
+NORTHWOODS ELEMENTARY 28540 - succeeded as a local result
+NORTHWOODS ELEMENTARY 27513 - succeeded as a place result
+NORTHWOODS PARK MIDDLE 28540 - succeeded as a local result
+NORWAYNE MIDDLE 27830 - succeeded as a local result
+NORWOOD ELEMENTARY 28128 - succeeded as a local result
+NRM EARLY COLLEGE HIGH SCHOOL 27804 - succeeded as a place result
+OAK GROVE ELEMENTARY 27606 - succeeded as a local result
+OAK GROVE ELEMENTARY 27703 - succeeded as a place result
+OAK GROVE MIDDLE 27107 - succeeded as a local result
+OAK HILL ELEMENTARY 28655 - succeeded as a local result
+OAK HILL ELEMENTARY 27260 - succeeded as a local result
+OAK LANE ELEMENTARY 27541 - succeeded as a local result
+OAK RIDGE ELEMENTARY 27310 - succeeded as a local result
+OAK VIEW ELEMENTARY 27265 - succeeded as a local result
+OAKDALE ELEMENTARY 28216 - succeeded as a local result
+OAKLAWN LANGUAGE ACADEMY 28216 - succeeded as a local result
+OAKLEY ELEMENTARY 28803 - succeeded as a local result
+OAKS ROAD ACADEMY 28560 - succeeded as a local result
+OAKWOOD ELEMENTARY 27379 - succeeded as a local result
+OAKWOOD ELEMENTARY 28601 - succeeded as a local result
+OBERLIN MIDDLE 27608 - succeeded as a place result
+OCRACOKE SCHOOL 27960 - succeeded as a local result
+OGDEN ELEMENTARY 28411 - succeeded as a place result
+OLD DOCK ELEMENTARY 28472 - succeeded as a local result
+OLD FORT ELEMENTARY SCHOOL 28762 - succeeded as a place result
+OLD RICHMOND ELEMENTARY 27050 - succeeded as a local result
+OLD TOWN ELEMENTARY 27106 - succeeded as a local result
+OLDE PROVIDENCE ELEMENTARY 28226 - succeeded as a local result
+OLDS ELEMENTARY 27607 - succeeded as a place result
+OLIVE CHAPEL ELEMENTARY 27502 - succeeded as a local result
+OLYMPIC HIGH SCHOOL 28273 - succeeded as a local result
+ORANGE HIGH 27278 - succeeded as a place result
+ORRUM MIDDLE 28369 - succeeded as a local result
+OTIS L HAIRSTON SR MIDDLE 27401 - succeeded as a place result
+OVERHILLS ELEMENTARY 28390 - succeeded as a local result
+OVERHILLS HIGH 28390 - succeeded as a local result
+OVERHILLS MIDDLE 28390 - succeeded as a local result
+OVERTON ELEMENTARY 28144 - succeeded as a place result
+OWEN HIGH 28711 FAILED 'local_results'
+OWEN MIDDLE 28778 - succeeded as a local result
+OXENDINE ELEMENTARY 28364 - succeeded as a local result
+OXFORD ELEMENTARY 28610 - succeeded as a local result
+OXFORD PREPARATORY 27565 - succeeded as a place result
+P S JONES MIDDLE 27889 - succeeded as a local result
+P W MOORE ELEMENTARY 27909 - succeeded as a local result
+PACTOLUS 27834 FAILED 'rating'
+PAGE HIGH 27405 - succeeded as a local result
+PAGE STREET ELEMENTARY 27371 - succeeded as a local result
+PAISLEY IB MAGNET SCHOOL 27105 - succeeded as a place result
+PALISADES PARK ELEMENTARY 28278 - succeeded as a place result
+PAMLICO COUNTY HIGH 28515 - succeeded as a local result
+PAMLICO COUNTY MIDDLE 28515 FAILED 'rating'
+PAMLICO COUNTY PRIMARY 28515 FAILED 'rating'
+PANTHER CREEK HIGH 27519 - succeeded as a place result
+PARK ROAD MONTESSORI 28209 - succeeded as a local result
+PARK VIEW ELEMENTARY 28115 - succeeded as a local result
+PARKLAND HIGH 27127 - succeeded as a local result
+PARKTON ELEMENTARY 28371 - succeeded as a local result
+PARKVIEW VILLAGE ELEMENTARY 27260 - succeeded as a local result
+PARKWAY ELEMENTARY 28607 - succeeded as a local result
+PARKWOOD ELEMENTARY 28540 - succeeded as a place result
+PARKWOOD ELEMENTARY 27713 - succeeded as a place result
+PARKWOOD HIGH 28112 - succeeded as a local result
+PARKWOOD MIDDLE 28112 - succeeded as a local result
+PARTNERSHIP ACADEMY 27278 - succeeded as a place result
+PARTNERSHIP ELEMENTARY 27605 - succeeded as a local result
+PASQUOTANK COUNTY HIGH 27909 - succeeded as a local result
+PASQUOTANK ELEMENTARY 27909 - succeeded as a local result
+PATHWAYS ELEMENTARY 27278 - succeeded as a local result
+PATRIOTS ELEMENTARY 28025 FAILED 'rating'
+PAUL R. BROWN LEADERSHIP ACADEMY 28337 - succeeded as a place result
+PAW CREEK ELEMENTARY 28214 - succeeded as a local result
+PEACHLAND-POLKTON ELEM 28133 FAILED 'rating'
+PEACHTREE ELEMENTARY 28906 FAILED 'rating'
+PEARSONTOWN ELEMENTARY 27713 - succeeded as a local result
+PEELER OPEN ELEMENTARY 27401 - succeeded as a local result
+PEMBROKE ELEMENTARY 28372 - succeeded as a local result
+PEMBROKE MIDDLE 28372 - succeeded as a local result
+PENDER EARLY COLLEGE HIGH 28425 FAILED 'local_results'
+PENDER HIGH 28425 - succeeded as a local result
+PENDERLEA ELEMENTARY 28478 - succeeded as a local result
+PENN-GRIFFIN SCHOOLS 27260 - succeeded as a local result
+PENNY ROAD ELEMENTARY 27518 - succeeded as a local result
+PERFORMANCE LEARNING CENTER 28262 - succeeded as a local result
+PERFORMANCE LEARNING CENTER 28027 - succeeded as a local result
+PERQUIMANS CENTRAL 27985 - succeeded as a local result
+PERQUIMANS COUNTY HIGH 27944 - succeeded as a local result
+PERQUIMANS COUNTY MIDDLE 27985 - succeeded as a local result
+PERRY W HARRISON ELEMENTARY 27312 - succeeded as a place result
+PERSON HIGH 27573 - succeeded as a local result
+PETERSON ELEMENTARY 28377 - succeeded as a local result
+PETREE ELEMENTARY 27101 - succeeded as a local result
+PHILIP J WEAVER ED CENTER 27401 - succeeded as a place result
+PHILLIP O BERRY ACADEMY OF TECHNOLOGY 28208 - succeeded as a place result
+PHILLIPS HIGH 27610 - succeeded as a local result
+PHILLIPS MIDDLE 27809 FAILED 'local_results'
+PHILLIPS MIDDLE 27514 FAILED 'local_results'
+PHILO-HILL MAGNET ACADEMY 27127 - succeeded as a place result
+PHOENIX ACADEMY 27565 - succeeded as a local result
+PHOENIX ACADEMY HIGH 27516 - succeeded as a local result
+PHOENIX ACADEMY-  PRIMARY ELEM. UPPER 27265 - succeeded as a place result
+PICKETT ELEMENTARY SCHOOL 27295 - succeeded as a local result
+PIEDMONT COMMUNITY CHARTER SCHOOL 28052 FAILED 'rating'
+PIEDMONT HIGH 28110 - succeeded as a local result
+PIEDMONT MIDDLE 28110 - succeeded as a local result
+PIEDMONT MIDDLE SCHOOL 28204 - succeeded as a local result
+PILOT ELEMENTARY 27360 - succeeded as a local result
+PILOT ELEMENTARY 27407 - succeeded as a local result
+PILOT MOUNTAIN ELEMENTARY 27041 FAILED 'rating'
+PILOT MOUNTAIN MIDDLE 27041 - succeeded as a local result
+PINE FOREST HIGH 28311 - succeeded as a local result
+PINE FOREST MIDDLE 28311 - succeeded as a local result
+PINE HALL ELEMENTARY SCHOOL 27042 - succeeded as a place result
+PINE LAKE PREPARATORY 28115 - succeeded as a local result
+PINE LEVEL ELEMENTARY 27568 - succeeded as a local result
+PINE VALLEY ELEMENTARY 28412 - succeeded as a local result
+PINEBROOK ELEMENTARY 27028 - succeeded as a local result
+PINECREST HIGH 28387 - succeeded as a local result
+PINEHURST ELEMENTARY 28374 - succeeded as a local result
+PINES ELEMENTARY 27962 - succeeded as a local result
+PINEVILLE ELEMENTARY 28134 - succeeded as a local result
+PINEWOOD ELEMENTARY 28210 - succeeded as a local result
+PINEWOOD ELEMENTARY 28120 - succeeded as a place result
+PINEY CREEK ELEMENTARY 28663 - succeeded as a local result
+PINEY GROVE ELEMENTARY 28212 - succeeded as a local result
+PINEY GROVE ELEMENTARY 28358 FAILED 'rating'
+PINEY GROVE ELEMENTARY 27284 - succeeded as a local result
+PINEY GROVE MIDDLE SCHOOL 27022 - succeeded as a local result
+PINK HILL ELEMENTARY 28572 - succeeded as a local result
+PINKSTON STREET ELEMENTARY 27536 - succeeded as a local result
+PINNACLE CLASSICAL ACADEMY 28152 - succeeded as a local result
+PINNACLE ELEMENTARY SCHOOL 28139 - succeeded as a local result
+PINNACLE ELEMENTARY SCHOOL 27043 - succeeded as a local result
+PIONEER SPRINGS COMMUNITY SCHOOL 28269 - succeeded as a place result
+PISGAH ELEMENTARY 28715 - succeeded as a local result
+PISGAH FOREST ELEMENTARY 28712 - succeeded as a place result
+PISGAH HIGH 28716 - succeeded as a local result
+PITTMAN ELEMENTARY LEADERSHIP ACADEMY 27823 - succeeded as a place result
+PITTS SCHOOL ROAD ELEMENTARY 28027 - succeeded as a place result
+PITTSBORO ELEMENTARY 27312 FAILED 'rating'
+PLAIN VIEW ELEMENTARY 28334 - succeeded as a local result
+PLAIN VIEW PRIMARY 28392 FAILED 'local_results'
+PLEASANT GARDEN ELEMENTARY 27313 - succeeded as a local result
+PLEASANT GARDENS ELEMENTARY SCHOOL 28752 - succeeded as a place result
+PLEASANT GROVE ELEMENTARY 27217 - succeeded as a local result
+PLEASANT RIDGE ELEMENTARY 28052 - succeeded as a local result
+PLEASANT UNION ELEMENTARY 27614 - succeeded as a local result
+POE ELEMENTARY 27610 - succeeded as a local result
+POLENTA ELEMENTARY 27529 - succeeded as a local result
+POLK CENTRAL ELEMENTARY SCHOOL 28756 - succeeded as a local result
+POLK COUNTY EARLY COLLEGE 28722 FAILED 'rating'
+POLK COUNTY HIGH SCHOOL 28722 - succeeded as a place result
+POLK COUNTY MIDDLE SCHOOL 28756 - succeeded as a place result
+POLLOCKSVILLE ELEMENTARY 28573 - succeeded as a local result
+POLO RIDGE ELEMENTARY 28277 - succeeded as a local result
+PONDEROSA ELEMENTARY 28303 - succeeded as a local result
+POPLAR SPRINGS ELEMENTARY SCHOOL 27021 - succeeded as a local result
+POPLIN ELEMENTARY 28079 - succeeded as a local result
+PORTER RIDGE ELEMENTARY 28079 - succeeded as a local result
+PORTER RIDGE HIGH SCHOOL 28079 - succeeded as a place result
+PORTER RIDGE MIDDLE SCHOOL 28079 - succeeded as a place result
+POWELL ELEMENTARY 27610 - succeeded as a local result
+POWHATAN ELEMENTARY 27527 - succeeded as a local result
+PREEMINENT CHARTER 27610 - succeeded as a local result
+PRESSLY SCHOOL 28677 - succeeded as a local result
+PRINCETON ELEMENTARY 27569 - succeeded as a local result
+PRINCETON HIGH 27569 - succeeded as a local result
+PRINCEVILLE ELEMENTARY 27886 - succeeded as a local result
+PROSPECT ELEMENTARY 28112 - succeeded as a local result
+PROSPECT ELEMENTARY 28364 - succeeded as a local result
+PROVIDENCE GROVE HIGH SCHOOL 27233 - succeeded as a place result
+PROVIDENCE HIGH SCHOOL 28270 - succeeded as a local result
+PROVIDENCE SPRING ELEMENTARY 28277 - succeeded as a place result
+PRUETTE SCALE ACADEMY 27262 - succeeded as a local result
+PSRC EARLY COLLEGE AT RCC 28360 - succeeded as a place result
+PUMPKIN CENTER INTERMEDIATE 28092 - succeeded as a local result
+PUMPKIN CENTER PRIMARY 28092 - succeeded as a local result
+PURNELL SWETT HIGH 28372 - succeeded as a local result
+QUAIL HOLLOW MIDDLE 28210 - succeeded as a local result
+QUALITY EDUCATION ACADEMY 27105 - succeeded as a place result
+QUEEN'S GRANT COMMUNITY SCHOOL 28227 - succeeded as a place result
+QUEENS CREEK ELEMENTARY 28584 - succeeded as a local result
+QUEST ACADEMY 27615 - succeeded as a local result
+R BROWN  MCALLISTER ELEMENTARY 28025 - succeeded as a place result
+R FREEMAN SCH OF ENGINEERING 28405 - succeeded as a local result
+R HOMER ANDREWS ELEMENTARY 27217 - succeeded as a place result
+R J REYNOLDS HIGH 27104 - succeeded as a place result
+R MAX ABBOTT MIDDLE 28305 - succeeded as a place result
+R N HARRIS ELEMENTARY 27703 - succeeded as a local result
+R-S CENTRAL HIGH SCHOOL 28139 - succeeded as a local result
+R-S MIDDLE SCHOOL 28139 - succeeded as a local result
+RALEIGH CHARTER HIGH SCHOOL 27605 - succeeded as a local result
+RALEIGH ROAD ELEMENTARY 28356 - succeeded as a local result
+RAMA ROAD ELEMENTARY 28211 - succeeded as a local result
+RAMSEUR ELEMENTARY SCHOOL 27316 - succeeded as a local result
+RAMSEY STREET HIGH 28301 - succeeded as a local result
+RAND ROAD ELEMENTARY 27529 - succeeded as a local result
+RANDLEMAN ELEMENTARY SCHOOL 27317 - succeeded as a local result
+RANDLEMAN HIGH SCHOOL 27317 - succeeded as a local result
+RANDLEMAN MIDDLE SCHOOL 27317 - succeeded as a local result
+RANDOLPH EARLY COLLEGE HIGH SCHOOL 27205 - succeeded as a place result
+RANDOLPH MIDDLE 28211 - succeeded as a local result
+RANGER ELEMENTARY/MIDDLE 28906 - succeeded as a local result
+RANKIN ELEMENTARY 27405 - succeeded as a place result
+RANSON MIDDLE 28269 - succeeded as a local result
+RASHKIS ELEMENTARY 27517 - succeeded as a local result
+RAY CHILDERS ELEMENTARY 28601 - succeeded as a local result
+RAY STREET ACADEMY 27253 - succeeded as a local result
+REA VIEW ELEMENTARY 28173 - succeeded as a local result
+REACHING ALL MINDS ACADEMY 27703 - succeeded as a place result
+RED OAK ELEMENTARY 27868 - succeeded as a local result
+RED OAK MIDDLE 27809 - succeeded as a local result
+RED SPRINGS HIGH 28377 - succeeded as a local result
+RED SPRINGS MIDDLE 28377 - succeeded as a local result
+REEDS ELEMENTARY 27295 - succeeded as a local result
+REEDY CREEK ELEMENTARY 28215 - succeeded as a local result
+REEDY CREEK ELEMENTARY 27513 - succeeded as a place result
+REEDY CREEK MIDDLE 27513 - succeeded as a local result
+REEDY FORK ELEMENTARY 27405 - succeeded as a place result
+REID PARK ACADEMY 28208 - succeeded as a local result
+REID ROSS CLASSICAL HIGH 28301 - succeeded as a place result
+REID ROSS CLASSICAL MIDDLE 28301 - succeeded as a place result
+REIDSVILLE HIGH 27320 - succeeded as a local result
+REIDSVILLE MIDDLE 27320 - succeeded as a local result
+RESEARCH TRIANGLE CHARTER 27703 - succeeded as a local result
+RESEARCH TRIANGLE HIGH SCHOOL 27709 - succeeded as a place result
+REX-RENNERT ELEMENTARY 28386 - succeeded as a local result
+REYNOLDS HIGH 28803 - succeeded as a local result
+REYNOLDS MIDDLE 28803 - succeeded as a local result
+RICHFIELD ELEMENTARY 28137 - succeeded as a local result
+RICHLAND CREEK ELEMENTARY 27587 - succeeded as a local result
+RICHLANDS ELEMENTARY 28574 FAILED 'rating'
+RICHLANDS HIGH 28574 - succeeded as a local result
+RICHMOND 9TH GRADE ACADEMY 28345 - succeeded as a local result
+RICHMOND EARLY COLLEGE HIGH 28345 - succeeded as a place result
+RICHMOND SENIOR HIGH 28379 - succeeded as a local result
+RIDGE ROAD MIDDLE 28269 - succeeded as a local result
+RIDGEWOOD ELEMENTARY 28590 - succeeded as a local result
+RIVER BEND ELEMENTARY 27616 - succeeded as a place result
+RIVER BEND MIDDLE 28610 - succeeded as a local result
+RIVER DELL ELEMENTARY 27527 - succeeded as a local result
+RIVER GATE ELEMENTARY 28273 - succeeded as a local result
+RIVER MILL ACADEMY 27253 - succeeded as a place result
+RIVER OAKS ACADEMY 28214 - succeeded as a local result
+RIVER OAKS MIDDLE 27610 - succeeded as a local result
+RIVER ROAD MIDDLE 27909 - succeeded as a local result
+RIVERBEND ELEMENTARY 28721 - succeeded as a local result
+RIVERSIDE ELEMENTARY 28657 - succeeded as a place result
+RIVERSIDE HIGH 27712 - succeeded as a place result
+RIVERSIDE HIGH 27892 - succeeded as a local result
+RIVERSIDE MIDDLE 27892 - succeeded as a local result
+RIVERVIEW ELEMENTARY 27855 - succeeded as a place result
+RIVERWOOD ELEMENTARY 27527 - succeeded as a local result
+RIVERWOOD MIDDLE 27527 - succeeded as a local result
+ROANOKE RAPIDS HIGH SCHOOL 27870 - succeeded as a local result
+ROANOKE VALLEY EARLY COLLEGE 27890 FAILED 'local_results'
+ROARING RIVER ELEMENTARY SCHOOL 28669 - succeeded as a place result
+ROBBINS ELEMENTARY 27325 - succeeded as a local result
+ROBBINSVILLE ELEMENTARY 28771 - succeeded as a local result
+ROBBINSVILLE HIGH 28771 - succeeded as a local result
+ROBBINSVILLE MIDDLE 28771 - succeeded as a local result
+ROBERSON HIGH 28803 FAILED 'rating'
+ROBERT B GLENN HIGH SCHOOL 27284 - succeeded as a place result
+ROBERT L. PATTON HIGH SCHOOL 28655 - succeeded as a place result
+ROBESON CO CAREER CTR 28359 - succeeded as a local result
+ROBINSON ELEMENTARY 28056 - succeeded as a local result
+ROCHELLE MIDDLE 28501 FAILED 'local_results'
+ROCK REST ELEMENTARY 28112 - succeeded as a local result
+ROCK RIDGE ELEMENTARY 27893 - succeeded as a local result
+ROCK SPRINGS ELEMENTARY 28037 - succeeded as a local result
+ROCKFISH ELEMENTARY 28348 - succeeded as a local result
+ROCKFISH HOKE ELEMENTARY 28376 - succeeded as a local result
+ROCKFORD ELEMENTARY 27017 - succeeded as a local result
+ROCKINGHAM CO EARLY COLLEGE HIGH 27375 - succeeded as a place result
+ROCKINGHAM COUNTY HIGH 27320 - succeeded as a local result
+ROCKINGHAM COUNTY MIDDLE 27320 - succeeded as a local result
+ROCKINGHAM MIDDLE 28379 - succeeded as a local result
+ROCKWELL ELEMENTARY 28138 - succeeded as a local result
+ROCKY MOUNT HIGH 27803 - succeeded as a local result
+ROCKY MOUNT MIDDLE 27804 - succeeded as a local result
+ROCKY MOUNT PREPARATORY 27804 - succeeded as a local result
+ROCKY POINT ELEMENTARY 28457 - succeeded as a local result
+ROCKY RIVER ELEMENTARY 28025 - succeeded as a local result
+ROCKY RIVER ELEMENTARY 28110 - succeeded as a local result
+ROCKY RIVER ELEMENTARY 28115 - succeeded as a local result
+ROCKY RIVER HIGH SCHOOL 28227 - succeeded as a local result
+RODGERS ELEMENTARY 27892 FAILED 'rating'
+ROGER BELL NEW TECH ACADEMY 28532 - succeeded as a place result
+ROGERS-HERR MIDDLE 27707 - succeeded as a local result
+ROLAND-GRISE MIDDLE 28403 - succeeded as a local result
+ROLESVILLE ELEMENTARY 27571 - succeeded as a local result
+ROLESVILLE HIGH 27571 - succeeded as a local result
+ROLESVILLE MIDDLE 27571 - succeeded as a local result
+RONALD E. MCNAIR ELEMENTARY 27214 - succeeded as a local result
+RONALD W REAGAN HIGH SCHOOL 27040 - succeeded as a local result
+RONDA-CLINGMAN ELEMENTARY SCHOOL 28670 - succeeded as a place result
+ROOT ELEMENTARY 27609 - succeeded as a local result
+ROSE HILL-MAGNOLIA ELEMENTARY 28458 - succeeded as a place result
+ROSEBORO ELEMENTARY 28382 - succeeded as a place result
+ROSEBORO-SALEMBURG MIDDLE 28382 - succeeded as a local result
+ROSENWALD ELEMENTARY 28340 - succeeded as a local result
+ROSEWOOD ELEMENTARY 27530 - succeeded as a place result
+ROSEWOOD HIGH 27530 - succeeded as a local result
+ROSEWOOD MIDDLE 27530 - succeeded as a local result
+ROSMAN ELEMENTARY 28772 - succeeded as a local result
+ROSMAN HIGH 28772 - succeeded as a local result
+ROSMAN MIDDLE 28772 - succeeded as a local result
+ROWAN CO EARLY COLLEGE 28146 - succeeded as a place result
+ROWLAND NORMENT ELEMENTARY 28358 - succeeded as a local result
+ROXBORO COMMUNITY SCHOOL 27573 - succeeded as a local result
+ROYAL ELEMENTARY 27549 - succeeded as a local result
+ROYAL OAKS ELEMENTARY 28083 - succeeded as a local result
+RUGBY MIDDLE 28791 - succeeded as a local result
+RURAL HALL ELEMENTARY 27045 - succeeded as a local result
+RUTHERFORD EARLY COLLEGE HIGH SCHOOL 28160 - succeeded as a local result
+RUTHERFORD OPPORTUNITY CENTER 28043 - succeeded as a local result
+RUTHERFORDTON ELEMENTARY SCHOOL 28139 - succeeded as a local result
+S RAY LOWDER ELEMENTARY 28092 - succeeded as a place result
+S W SNOWDEN ELEMENTARY 27806 - succeeded as a local result
+SAGE ACADEMY 27344 - succeeded as a local result
+SAINT PAULS ELEMENTARY 28384 - succeeded as a local result
+SAINT PAULS HIGH 28384 - succeeded as a local result
+SAINT PAULS MIDDLE 28384 - succeeded as a local result
+SAINT STEPHENS ELEMENTARY 28613 - succeeded as a local result
+SAINT STEPHENS HIGH 28601 - succeeded as a local result
+SALEM ELEMENTARY 28655 - succeeded as a place result
+SALEM ELEMENTARY 27523 - succeeded as a local result
+SALEM MIDDLE 27523 - succeeded as a place result
+SALEMBURG ELEMENTARY 28385 - succeeded as a local result
+SALISBURY HIGH 28144 - succeeded as a local result
+SALLIE B HOWARD SCHOOL 27893 - succeeded as a place result
+SALUDA ELEMENTARY SCHOOL 28773 - succeeded as a local result
+SAM D BUNDY ELEMENTARY 27828 - succeeded as a place result
+SAMPSON EARLY COLLEGE HIGH 28329 - succeeded as a place result
+SAMPSON MIDDLE 28328 - succeeded as a local result
+SAND HILL-VENABLE ELEM 28806 - succeeded as a place result
+SAND RIDGE ELEMENTARY 28539 - succeeded as a local result
+SANDERSON HIGH 27609 - succeeded as a local result
+SANDHILLS FARM LIFE ELEMENTARY 28327 - succeeded as a place result
+SANDHOKE EARLY COLLEGE HIGH 28376 - succeeded as a place result
+SANDY GROVE ELEMENTARY 28357 - succeeded as a local result
+SANDY GROVE MIDDLE 28357 - succeeded as a local result
+SANDY RIDGE  ELEMENTARY SCHOOL 27046 FAILED 'rating'
+SANDY RIDGE ELEMENTARY 28173 - succeeded as a local result
+SANDY RIDGE ELEMENTARY 27704 - succeeded as a local result
+SANFORD CREEK ELEMENTARY 27571 - succeeded as a local result
+SANLEE MIDDLE SCHOOL 27332 - succeeded as a local result
+SARDIS ELEMENTARY 28110 - succeeded as a local result
+SAWMILLS ELEMENTARY 28630 - succeeded as a local result
+SCALE SCHOOL 27405 - succeeded as a local result
+SCHOOL OF INQUIRY AND LIFE SCIENCES 28803 - succeeded as a place result
+SCOTLAND EARLY COLLEGE HIGH 28352 - succeeded as a place result
+SCOTLAND HIGH SCHOOL 28352 - succeeded as a local result
+SCOTLAND NECK ELEMENTARY LEADERSHIP ACAD 27874 - succeeded as a place result
+SCOTTS CREEK ELEMENTARY 28779 - succeeded as a local result
+SCOTTS ELEMENTARY 28625 - succeeded as a local result
+SCROGGS ELEMENTARY 27516 - succeeded as a local result
+SCURLOCK ELEMENTARY 28376 - succeeded as a local result
+SEAGROVE ELEMENTARY SCHOOL 27341 - succeeded as a place result
+SEAWELL ELEMENTARY 27516 - succeeded as a local result
+SEDALIA ELEMENTARY 27342 - succeeded as a local result
+SEDGE GARDEN ELEMENTARY 27284 - succeeded as a local result
+SEDGEFIELD ELEMENTARY 27407 - succeeded as a local result
+SEDGEFIELD MIDDLE 28209 - succeeded as a local result
+SELMA ELEMENTARY 27576 - succeeded as a local result
+SELMA MIDDLE SCHOOL 27576 - succeeded as a local result
+SELWYN ELEMENTARY 28211 - succeeded as a local result
+SEVENTY-FIRST CLASSICAL MIDDLE 28304 - succeeded as a place result
+SEVENTY-FIRST HIGH 28304 - succeeded as a local result
+SHADY BROOK ELEMENTARY 28081 - succeeded as a local result
+SHADY GROVE ELEMENTARY 27006 - succeeded as a local result
+SHADYBROOK ELEMENTARY 27265 - succeeded as a local result
+SHALLOTTE MIDDLE 28459 - succeeded as a local result
+SHAMROCK GARDENS ELEMENTARY 28216 - succeeded as a place result
+SHARON ELEMENTARY 28677 - succeeded as a local result
+SHARON ELEMENTARY 28211 - succeeded as a local result
+SHAW ACADEMY 28352 - succeeded as a local result
+SHAWBORO ELEMENTARY SCHOOL 27973 - succeeded as a local result
+SHEEP-HARNEY ELEMENTARY 27909 - succeeded as a local result
+SHELBY HIGH 28152 - succeeded as a local result
+SHELBY INTERMEDIATE 28152 - succeeded as a place result
+SHELBY MIDDLE 28152 - succeeded as a local result
+SHEPHERD ELEMENTARY 28115 - succeeded as a local result
+SHERRILLS FORD ELEMENTARY 28673 - succeeded as a local result
+SHERWOOD ELEMENTARY 28054 - succeeded as a local result
+SHERWOOD FOREST ELEMENTARY 27106 - succeeded as a local result
+SHERWOOD GITHENS MIDDLE 27707 - succeeded as a local result
+SHERWOOD PARK ELEMENTARY 28304 - succeeded as a local result
+SHILOH VALLEY ELEMENTARY 28110 - succeeded as a local result
+SHILOH VALLEY PRIMARY SCHOOL 28110 - succeeded as a local result
+SHIVE ELEMENTARY 28138 - succeeded as a local result
+SHOALS ELEMENTARY 27043 - succeeded as a local result
+SHUFORD ELEMENTARY 28613 - succeeded as a local result
+SILER CITY ELEMENTARY 27344 - succeeded as a local result
+SILK HOPE SCHOOL 27344 - succeeded as a local result
+SILVER VALLEY ELEMENTARY 27292 - succeeded as a local result
+SILVERDALE ELEMENTARY 28555 - succeeded as a local result
+SMITH ELEMENTARY 27603 - succeeded as a local result
+SMITH FARM ELEMENTARY 27107 - succeeded as a local result
+SMITH MIDDLE 27516 - succeeded as a local result
+SMITHFIELD ELEMENTARY 28210 - succeeded as a local result
+SMITHFIELD MIDDLE 27577 - succeeded as a local result
+SMITHFIELD-SELMA HIGH 27577 - succeeded as a local result
+SMOKEY MOUNTAIN ELEMENTARY 28789 - succeeded as a local result
+SMOKY MOUNTAIN HIGH SCHOOL 28779 - succeeded as a place result
+SNOW CREEK ELEMENTARY 28601 - succeeded as a local result
+SNOW HILL PRIMARY 28580 FAILED 'local_results'
+SOCRATES ACADEMY 28105 - succeeded as a local result
+SOUTH ASHEBORO MIDDLE 27203 FAILED 'rating'
+SOUTH BRUNSWICK CHARTER 28422 - succeeded as a local result
+SOUTH BRUNSWICK HIGH 28461 - succeeded as a local result
+SOUTH BRUNSWICK MIDDLE 28461 - succeeded as a local result
+SOUTH CALDWELL HIGH 28638 - succeeded as a local result
+SOUTH CENTRAL 28590 - succeeded as a place result
+SOUTH CHARLOTTE MIDDLE 28277 FAILED 'rating'
+SOUTH COLUMBUS HIGH 28463 - succeeded as a place result
+SOUTH CREEK ELEMENTARY 27871 - succeeded as a local result
+SOUTH CREEK MIDDLE/HIGH 27871 - succeeded as a place result
+SOUTH DAVIDSON HIGH 27239 - succeeded as a local result
+SOUTH DAVIDSON MIDDLE 27239 - succeeded as a local result
+SOUTH DAVIE MIDDLE 27028 - succeeded as a local result
+SOUTH EDGECOMBE MIDDLE 27864 - succeeded as a local result
+SOUTH ELEMENTARY 27302 FAILED 'rating'
+SOUTH ELEMENTARY 27573 - succeeded as a local result
+SOUTH ELEMENTARY 28115 - succeeded as a local result
+SOUTH END ELEMENTARY 27320 - succeeded as a local result
+SOUTH FORK ELEMENTARY 27104 - succeeded as a local result
+SOUTH GRAHAM ELEMENTARY 27253 - succeeded as a local result
+SOUTH GREENVILLE ELEMENTARY 27834 - succeeded as a local result
+SOUTH HARNETT ELEMENTARY 28323 - succeeded as a local result
+SOUTH IREDELL HIGH 28677 - succeeded as a local result
+SOUTH JOHNSTON HIGH 27524 - succeeded as a place result
+SOUTH LENOIR HIGH 28525 - succeeded as a local result
+SOUTH LEXINGTON DEVELOPMENTAL CENTER 27292 - succeeded as a local result
+SOUTH LEXINGTON SCHOOL 27292 - succeeded as a local result
+SOUTH MACON ELEMENTARY 28734 - succeeded as a local result
+SOUTH MEBANE ELEMENTARY 27302 - succeeded as a local result
+SOUTH MECKLENBURG HIGH SCHOOL 28210 - succeeded as a place result
+SOUTH NEWTON ELEMENTARY 28658 - succeeded as a local result
+SOUTH POINT HIGH 28012 FAILED 'rating'
+SOUTH PROVIDENCE 28173 - succeeded as a local result
+SOUTH ROWAN HIGH 28023 - succeeded as a local result
+SOUTH SMITHFIELD ELEMENTARY 27577 - succeeded as a local result
+SOUTH STANLY HIGH 28128 - succeeded as a local result
+SOUTH STANLY MIDDLE 28128 - succeeded as a local result
+SOUTH STOKES HIGH SCHOOL 27052 - succeeded as a place result
+SOUTH TOE ELEMENTARY 28714 FAILED 'rating'
+SOUTH TOPSAIL ELEMENTARY 28443 - succeeded as a local result
+SOUTH VIEW HIGH 28348 FAILED 'rating'
+SOUTH VIEW MIDDLE 28348 - succeeded as a local result
+SOUTHEAST ELEMENTARY 28501 - succeeded as a local result
+SOUTHEAST GUILFORD HIGH 27406 - succeeded as a local result
+SOUTHEAST GUILFORD MIDDLE 27406 - succeeded as a local result
+SOUTHEAST HALIFAX COLLEGIATE PREP ACADEM 27839 - succeeded as a place result
+SOUTHEAST MIDDLE 28146 - succeeded as a local result
+SOUTHEAST MIDDLE 27284 - succeeded as a local result
+SOUTHEAST RALEIGH HIGH 27610 - succeeded as a local result
+SOUTHEASTERN ACADEMY 28358 - succeeded as a local result
+SOUTHEASTERN RANDOLPH MIDDLE SCHOOL 27316 - succeeded as a place result
+SOUTHEASTERN STOKES MIDDLE SCHOOL 27052 - succeeded as a place result
+SOUTHERN ALAMANCE HIGH 27253 - succeeded as a local result
+SOUTHERN ALAMANCE MIDDLE 27253 - succeeded as a local result
+SOUTHERN ELEMENTARY 27406 - succeeded as a local result
+SOUTHERN GUILFORD HIGH 27406 - succeeded as a local result
+SOUTHERN GUILFORD MIDDLE 27406 - succeeded as a local result
+SOUTHERN LEE HIGH SCHOOL 27332 - succeeded as a place result
+SOUTHERN MIDDLE 28315 - succeeded as a local result
+SOUTHERN MIDDLE 27573 - succeeded as a local result
+SOUTHERN NASH HIGH 27807 FAILED 'rating'
+SOUTHERN NASH MIDDLE 27882 - succeeded as a local result
+SOUTHERN PINES ELEMENTARY 28387 - succeeded as a local result
+SOUTHERN PINES PRIMARY 28387 FAILED 'rating'
+SOUTHERN SCHOOL OF ENERGY AND SUSTAINABI 27703 - succeeded as a place result
+SOUTHERN WAKE ACADEMY 27540 - succeeded as a local result
+SOUTHERN WAYNE HIGH 28333 - succeeded as a local result
+SOUTHMONT ELEMENTARY 27292 - succeeded as a local result
+SOUTHMONT ELEMENTARY SCHOOL 27205 - succeeded as a local result
+SOUTHPORT ELEMENTARY 28461 - succeeded as a local result
+SOUTHSIDE HIGH 27817 - succeeded as a local result
+SOUTHWEST EDGECOMBE HIGH 27864 - succeeded as a local result
+SOUTHWEST ELEMENTARY 28540 - succeeded as a local result
+SOUTHWEST ELEMENTARY 27265 - succeeded as a place result
+SOUTHWEST ELEMENTARY 27713 - succeeded as a place result
+SOUTHWEST ELEMENTARY 27012 - succeeded as a local result
+SOUTHWEST ELEMENTARY SCHOOL 27292 - succeeded as a local result
+SOUTHWEST GUILFORD HIGH 27265 - succeeded as a local result
+SOUTHWEST GUILFORD MIDDLE 27265 - succeeded as a local result
+SOUTHWEST HIGH 28540 - succeeded as a local result
+SOUTHWEST MIDDLE 28540 - succeeded as a local result
+SOUTHWEST MIDDLE 28052 - succeeded as a place result
+SOUTHWEST MIDDLE SCHOOL 28273 - succeeded as a place result
+SOUTHWEST PRIMARY 28602 FAILED 'local_results'
+SOUTHWESTERN RANDOLPH HIGH SCHOOL 27205 - succeeded as a place result
+SOUTHWESTERN RANDOLPH MIDDLE 27205 - succeeded as a local result
+SOUTHWOOD ELEMENTARY 28504 - succeeded as a local result
+SOUTHWOOD ELEMENTARY 27292 - succeeded as a local result
+SPARTA ELEMENTARY 28675 - succeeded as a local result
+SPEAS ELEMENTARY 27106 - succeeded as a local result
+SPEIGHT MIDDLE 27883 - succeeded as a local result
+SPINDALE ELEMENTARY SCHOOL 28160 - succeeded as a place result
+SPRING CREEK ELEMENTARY 27534 - succeeded as a local result
+SPRING CREEK HIGH 28578 - succeeded as a local result
+SPRING HILL MIDDLE 28352 - succeeded as a local result
+SPRING HOPE ELEMENTARY 27882 - succeeded as a local result
+SPRING LAKE MIDDLE 28390 - succeeded as a local result
+SPRING VALLEY ELEMENTARY 27703 - succeeded as a place result
+SPRINGFIELD MIDDLE 27851 - succeeded as a local result
+SPRINGFIELD PRIMARY 28164 FAILED 'local_results'
+SPRINGMORE ELEMENTARY 28152 - succeeded as a local result
+ST JAMES ELEMENTARY 28037 - succeeded as a local result
+STALLINGS ELEMENTARY 28104 - succeeded as a local result
+STANFIELD ELEMENTARY 28163 - succeeded as a local result
+STANLEY MIDDLE 28164 - succeeded as a local result
+STANLY ACADEMY LEARNING CENTER 28001 - succeeded as a place result
+STANLY EARLY COLLEGE HIGH 28001 - succeeded as a place result
+STANTONSBURG ELEMENTARY 27883 - succeeded as a local result
+STAR ACADEMY 27546 - succeeded as a local result
+STAR ELEMENTARY 27356 FAILED 'rating'
+STARMOUNT HIGH 27011 - succeeded as a local result
+STARMOUNT MIDDLE 27011 - succeeded as a local result
+STARS CHARTER 28394 - succeeded as a local result
+STARTOWN ELEMENTARY 28658 - succeeded as a local result
+STATESIDE ELEMENTARY 28546 - succeeded as a local result
+STATESVILLE HIGH 28677 - succeeded as a local result
+STATESVILLE ROAD ELEMENTARY 28269 - succeeded as a local result
+STEDMAN ELEMENTARY 28391 - succeeded as a local result
+STEDMAN PRIMARY 28391 FAILED 'local_results'
+STEELE CREEK ELEMENTARY 28273 - succeeded as a local result
+STEM EARLY COLLEGE @ NC A&T SU 27411 - succeeded as a place result
+STEM EARLY HIGH 27537 - succeeded as a local result
+STERLING ELEMENTARY 28134 - succeeded as a local result
+STERLING MONTESSORI ACADEMY 27560 - succeeded as a local result
+STERNBERGER ELEMENTARY 27410 - succeeded as a local result
+STEWART CREEK HIGH 28208 - succeeded as a local result
+STOCKS ELEMENTARY 27886 - succeeded as a local result
+STOKES 27884 FAILED 'rating'
+STOKES EARLY COLLEGE HIGH SCHOOL 27052 - succeeded as a place result
+STOKESDALE ELEMENTARY 27357 - succeeded as a local result
+STONER-THOMAS SCHOOL 27292 - succeeded as a local result
+STONEVILLE ELEMENTARY 27048 - succeeded as a local result
+STONEY CREEK ELEMENTARY 27320 - succeeded as a local result
+STONEY CREEK ELEMENTARY 28262 - succeeded as a place result
+STONEY POINT ELEMENTARY 28306 - succeeded as a local result
+STONY POINT ELEMENTARY 28678 - succeeded as a local result
+STORIES CREEK ELEMENTARY 27574 - succeeded as a local result
+STOUGH ELEMENTARY 27612 - succeeded as a place result
+STOVALL-SHAW ELEMENTARY 27582 - succeeded as a local result
+STUART W CRAMER HIGH 28012 - succeeded as a place result
+SUCCESS INSTITUTE CHARTER 28677 FAILED 'rating'
+SUGAR CREEK CHARTER 28206 - succeeded as a local result
+SUGAR LOAF ELEMENTARY 28681 FAILED 'rating'
+SUGARLOAF ELEMENTARY 28792 - succeeded as a local result
+SUMMERFIELD CHARTER ACADEMY 27358 - succeeded as a local result
+SUMMERFIELD ELEMENTARY 27358 - succeeded as a place result
+SUMMERSILL ELEMENTARY 28540 - succeeded as a local result
+SUMMIT CHARTER 28717 - succeeded as a local result
+SUMNER ELEMENTARY 27406 - succeeded as a place result
+SUN VALLEY HIGH 28110 - succeeded as a local result
+SUN VALLEY MIDDLE 28079 - succeeded as a local result
+SUNNY VIEW ELEMENTARY SCHOOL 28756 - succeeded as a local result
+SUNNYSIDE ELEMENTARY 28312 - succeeded as a local result
+SUNSET AVENUE ELEMENTARY 28328 - succeeded as a local result
+SUNSET PARK ELEMENTARY 28401 - succeeded as a local result
+SUNSHINE ELEMENTARY SCHOOL 28018 FAILED 'rating'
+SUPPLY ELEMENTARY 28462 - succeeded as a local result
+SURRY CENTRAL HIGH 27017 - succeeded as a local result
+SURRY EARLY COLLEGE 27017 FAILED 'rating'
+SWAIN COUNTY EAST ELEMENTARY 28713 - succeeded as a local result
+SWAIN COUNTY HIGH SCHOOL 28713 - succeeded as a place result
+SWAIN COUNTY MIDDLE SCHOOL 28713 - succeeded as a local result
+SWAIN COUNTY WEST ELEMENTARY 28713 - succeeded as a place result
+SWANN MIDDLE SCHOOL 27405 - succeeded as a local result
+SWANSBORO ELEMENTARY 28584 - succeeded as a local result
+SWANSBORO HIGH 28584 - succeeded as a local result
+SWANSBORO MIDDLE 28584 - succeeded as a local result
+SWIFT CREEK ELEMENTARY 27606 - succeeded as a local result
+SWIFT CREEK ELEMENTARY 27891 - succeeded as a local result
+SYCAMORE CREEK ELEMENTARY 27613 - succeeded as a local result
+SYCAMORE LANE ELEMENTARY 28352 - succeeded as a local result
+SYLVAN ELEMENTARY 27349 - succeeded as a local result
+T C HENDERSON 28747 - succeeded as a local result
+T S COOPER ELEMENTARY 27979 - succeeded as a local result
+T WINGATE ANDREWS HIGH 27265 - succeeded as a place result
+TABERNACLE ELEMENTARY SCHOOL 27205 - succeeded as a local result
+TABLE ROCK MIDDLE 28655 - succeeded as a local result
+TABOR CITY ELEMENTARY 28463 - succeeded as a local result
+TABOR CITY MIDDLE 28463 - succeeded as a local result
+TANGLEWOOD ELEMENTARY 28358 - succeeded as a place result
+TAR HEEL MIDDLE 28392 - succeeded as a local result
+TAR RIVER ACADEMY 27804 - succeeded as a local result
+TAR RIVER ELEMENTARY 27525 - succeeded as a local result
+TARBORO HIGH 27886 - succeeded as a local result
+TAYLORSVILLE ELEMENTARY 28681 - succeeded as a local result
+TERESA C BERRIEN ELEMENTARY 28301 - succeeded as a local result
+TERRELL LANE MIDDLE 27549 - succeeded as a local result
+TERRY SANFORD HIGH 28303 - succeeded as a local result
+THE ACADEMY OF MOORE COUNTY 28315 - succeeded as a place result
+THE ARTS BASED SCHOOL 27101 - succeeded as a local result
+THE BRAWLEY SCHOOL 28117 FAILED 'rating'
+THE CAPITOL ENCORE ACADEMY 28301 - succeeded as a local result
+THE COAST 28422 FAILED 'local_results'
+THE COMMUNITY LEARNING CENTER @ PINCKNEY 28327 - succeeded as a local result
+THE DOWNTOWN SCHOOL 27101 - succeeded as a local result
+THE EXPEDITION SCHOOL 27278 - succeeded as a place result
+THE EXPLORIS SCHOOL 27603 - succeeded as a local result
+THE FRANKLIN SCHOOL OF INNOVATION 28806 - succeeded as a local result
+THE HAWBRIDGE SCHOOL 27340 - succeeded as a local result
+THE INSTITUTE DEVELOPMENT YOUNG LEADERS 27703 - succeeded as a place result
+THE INTERNATIONAL SCHOOL AT GREGORY 28401 - succeeded as a local result
+THE JP KNAPP ECH (I)SCHOOL 27929 - succeeded as a place result
+THE LEARNING CENTER 28906 - succeeded as a local result
+THE MOUNTAIN COMMUNITY SCH 28792 - succeeded as a place result
+THE OAKS ACADEMY 28905 - succeeded as a local result
+THE SCHOOL FOR CREATIVE STUDIES 27704 - succeeded as a local result
+THE SCORE CENTER 27320 FAILED 'local_results'
+THE SPECIAL CHILDREN'S SCHOOL 27106 - succeeded as a local result
+THIRD CREEK ELEMENTARY 28677 FAILED 'rating'
+THIRD CREEK MIDDLE 28677 FAILED 'rating'
+THOMAS ACADEMY 28450 - succeeded as a place result
+THOMAS JEFFERSON CLASS ACADEMY 28114 - succeeded as a local result
+THOMAS JEFFERSON MIDDLE 27106 - succeeded as a local result
+THOMASBORO ACADEMY 28208 - succeeded as a local result
+THOMASVILLE HIGH 27360 FAILED 'rating'
+THOMASVILLE MIDDLE 27360 - succeeded as a local result
+THOMASVILLE PRIMARY 27360 FAILED 'local_results'
+THREE RIVERS ACADEMY 27983 - succeeded as a local result
+TILLER SCHOOL 28516 FAILED 'rating'
+TIMBER DRIVE ELEMENTARY 27529 - succeeded as a place result
+TOISNOT MIDDLE 27893 - succeeded as a local result
+TOMMY'S ROAD ELEMENTARY 27534 - succeeded as a local result
+TOPSAIL ELEMENTARY 28443 - succeeded as a local result
+TOPSAIL HIGH 28443 - succeeded as a local result
+TOPSAIL MIDDLE 28443 - succeeded as a local result
+TORCHLIGHT ACADEMY 27604 - succeeded as a local result
+TORRENCE CREEK ELEMENTARY 28078 - succeeded as a local result
+TOWN CREEK ELEMENTARY 28479 - succeeded as a local result
+TOWNSEND 28364 - succeeded as a local result
+TOWNSHIP THREE ELEMENTARY 28152 - succeeded as a local result
+TRAMWAY ELEMENTARY 27330 - succeeded as a local result
+TRAPHILL ELEMENTARY SCHOOL 28685 - succeeded as a local result
+TRENT PARK ELEMENTARY 28562 - succeeded as a local result
+TRENTON ELEMENTARY 28585 FAILED 'rating'
+TREXLER MIDDLE 28574 - succeeded as a local result
+TRI-COUNTY EARLY COLLEGE HIGH 28906 - succeeded as a place result
+TRIAD MATH AND SCIENCE ACADEMY 27406 - succeeded as a local result
+TRIANGLE LAKE MONTESSORI ELEM 27260 - succeeded as a place result
+TRIANGLE MATH AND SCIENCE ACADEMY 27511 - succeeded as a place result
+TRILLIUM SPRINGS MONTESSORI 28078 - succeeded as a local result
+TRINDALE ELEMENTARY SCHOOL 27263 - succeeded as a local result
+TRINITY ELEMENTARY SCHOOL 27370 - succeeded as a local result
+TRINITY HIGH SCHOOL 27370 - succeeded as a local result
+TRITON HIGH 28339 - succeeded as a local result
+TROUTMAN ELEMENTARY 28166 - succeeded as a local result
+TROUTMAN MIDDLE 28166 - succeeded as a local result
+TROY ELEMENTARY 27371 - succeeded as a local result
+TRYON ELEMENTARY 28016 - succeeded as a local result
+TRYON ELEMENTARY SCHOOL 28782 - succeeded as a local result
+TUCKASEEGEE ELEMENTARY 28214 - succeeded as a local result
+TUCKER CREEK MIDDLE 28532 - succeeded as a local result
+TURNER CREEK ELEMENTARY 27519 - succeeded as a local result
+TURNING POINT ACADEMY 28214 - succeeded as a local result
+TURNING POINT ACADEMY 28150 - succeeded as a place result
+TURRENTINE MIDDLE 27215 - succeeded as a local result
+TUSCOLA HIGH 28786 - succeeded as a local result
+TWO RIVERS COMMUNITY SCHOOL 28607 - succeeded as a local result
+TYRO ELEMENTARY 27295 - succeeded as a local result
+TYRO MIDDLE 27295 - succeeded as a local result
+TYRRELL ELEMENTARY 27925 FAILED 'local_results'
+UNC HOSPITAL SCHOOL 27514 FAILED 'rating'
+UNCG EARLY/MIDDLE COLLEGE 27412 - succeeded as a place result
+UNDERWOOD ELEMENTARY 27608 - succeeded as a local result
+UNION ACADEMY 28734 - succeeded as a place result
+UNION ACADEMY 28110 - succeeded as a local result
+UNION CHAPEL ELEMENTARY 28372 - succeeded as a local result
+UNION COUNTY EARLY COLLEGE 28110 - succeeded as a local result
+UNION CROSS TRADITIONAL ACAD 27284 - succeeded as a place result
+UNION ELEMENTARY 28174 - succeeded as a place result
+UNION ELEMENTARY 28328 - succeeded as a local result
+UNION ELEMENTARY 28470 - succeeded as a local result
+UNION ELEMENTARY 28383 - succeeded as a local result
+UNION ELEMENTARY 28168 - succeeded as a local result
+UNION ELEMENTARY 28150 - succeeded as a local result
+UNION GROVE ELEMENTARY 28689 - succeeded as a local result
+UNION HIGH 28458 - succeeded as a local result
+UNION HILL ELEMENTARY 27260 - succeeded as a local result
+UNION INTERMEDIATE 28328 - succeeded as a local result
+UNION MIDDLE 28328 - succeeded as a local result
+UNION PINES HIGH 28326 - succeeded as a local result
+UNIONVILLE ELEMENTARY 28110 - succeeded as a local result
+UNITED COMMUNITY SCHOOL 28213 - succeeded as a place result
+UNIVERSITY MEADOWS ELEMENTARY 28262 - succeeded as a local result
+UNIVERSITY PARK CREATIVE ARTS 28216 - succeeded as a place result
+UPCHURCH ELEMENTARY 28376 - succeeded as a local result
+UPWARD ELEMENTARY 28731 - succeeded as a local result
+UWHARRIE CHARTER ACADEMY 27205 - succeeded as a local result
+UWHARRIE RIDGE SIX-TWELVE 27370 - succeeded as a place result
+VALDESE ELEMENTARY 28690 - succeeded as a local result
+VALLE CRUCIS ELEMENTARY 28679 - succeeded as a local result
+VALLEY SPRINGS MIDDLE 28704 - succeeded as a local result
+VALMEAD ELEMENTARY 28645 - succeeded as a local result
+VANCE CHARTER SCHOOL 27537 - succeeded as a local result
+VANCE CO EARLY COLLEGE 27537 - succeeded as a local result
+VANCE COUNTY HIGH SCHOOL 27537 - succeeded as a place result
+VANCE COUNTY MIDDLE SCHOOL 27536 - succeeded as a local result
+VANCE ELEMENTARY 27603 - succeeded as a local result
+VANCE ELEMENTARY 28806 - succeeded as a local result
+VANCEBORO-FARM LIFE ELEMENTARY 28586 - succeeded as a place result
+VANDALIA ELEMENTARY 27406 - succeeded as a local result
+VANDORA SPRINGS ELEMENTARY 27529 - succeeded as a local result
+VANSTORY HILLS ELEMENTARY 28303 - succeeded as a local result
+VASS-LAKEVIEW ELEMENTARY 28394 - succeeded as a local result
+VAUGHAN ELEMENTARY 27551 - succeeded as a local result
+VERNON MALONE COLLEGE AND CAREER ACADEMY 27603 - succeeded as a place result
+VICK ELEMENTARY 27893 - succeeded as a local result
+VIDANT  HEALTH 27834 - succeeded as a local result
+VIENNA ELEMENTARY 27040 - succeeded as a local result
+VIEWMONT ELEMENTARY 28601 - succeeded as a local result
+VINSON-BYNUM ELEMENTARY 27893 - succeeded as a local result
+VIRGINIA CROSS ELEMENTARY 27344 - succeeded as a local result
+VIRGINIA WILLIAMSON ELEM 28422 - succeeded as a local result
+VIRTUAL ACADEMY 27101 - succeeded as a local result
+VOYAGER ACADEMY 27704 - succeeded as a local result
+W A BESS ELEMENTARY SCHOOL 28056 - succeeded as a place result
+W A YOUNG ELEMENTARY 28655 - succeeded as a local result
+W B BEAM INTERMEDIATE SCHOOL 28021 - succeeded as a place result
+W C FRIDAY MIDDLE SCHOOL 28034 - succeeded as a place result
+W G PEARSON ELEMENTARY 27707 - succeeded as a local result
+W H KNUCKLES 28358 - succeeded as a local result
+W H ROBINSON ELEMENTARY 28590 - succeeded as a local result
+W JESSE GURGANUS ELEMENTARY 28532 - succeeded as a place result
+W M IRVIN ELEMENTARY 28025 - succeeded as a local result
+W M JENKINS ELEMENTARY 28601 - succeeded as a local result
+W P GRIER MIDDLE SCHOOL 28054 - succeeded as a place result
+W R ODELL PRIMARY 28027 FAILED 'rating'
+W T GRIGGS ELEMENTARY 27965 - succeeded as a place result
+WACCAMAW 28420 FAILED 'rating'
+WADESBORO ELEMENTARY 28170 - succeeded as a local result
+WADESBORO PRIMARY 28170 FAILED 'rating'
+WAGRAM ELEMENTARY 28396 - succeeded as a local result
+WAHL COATES ELEMENTARY 27858 - succeeded as a local result
+WAKE EARLY COLLEGE OF HEALTH AND SCIENCE 27610 - succeeded as a place result
+WAKE FOREST CHARTER ACADEMY 27587 - succeeded as a local result
+WAKE FOREST ELEMENTARY 27587 - succeeded as a local result
+WAKE FOREST HIGH SCHOOL 27587 - succeeded as a place result
+WAKE FOREST MIDDLE SCHOOL 27587 FAILED 'rating'
+WAKE STEM EARLY COLLEGE HIGH SCHOOL 27603 - succeeded as a place result
+WAKE YOUNG MEN'S LEADERSHIP ACADEMY 27601 - succeeded as a local result
+WAKE YOUNG WOMEN'S LEADERSHIP ACADEMY 27606 - succeeded as a place result
+WAKEFIELD ELEMENTARY 27614 - succeeded as a local result
+WAKEFIELD HIGH 27614 - succeeded as a place result
+WAKEFIELD MIDDLE 27614 - succeeded as a local result
+WAKELON ELEMENTARY 27597 - succeeded as a local result
+WALDO C FALKENER SR ELEMENTARY 27401 - succeeded as a place result
+WALKER-SPIVEY ELEMENTARY 28301 - succeeded as a local result
+WALKERTOWN ELEMENTARY 27051 - succeeded as a local result
+WALKERTOWN HIGH 27051 - succeeded as a local result
+WALKERTOWN MIDDLE 27051 - succeeded as a local result
+WALLACE ELEMENTARY 28466 - succeeded as a local result
+WALLACE-ROSE HILL HIGH 28464 - succeeded as a place result
+WALLBURG ELEMENTARY 27107 - succeeded as a local result
+WALNUT COVE ELEMENTARY SCHOOL 27052 - succeeded as a local result
+WALNUT CREEK ELEMENTARY 27610 - succeeded as a local result
+WALTER BICKETT ELEMENTARY 28112 - succeeded as a local result
+WALTER G. BYERS SCHOOL 28206 - succeeded as a place result
+WALTER L PARSLEY ELEMENTARY 28409 - succeeded as a place result
+WALTER M WILLIAMS HIGH 27215 - succeeded as a place result
+WALTER R JOHNSON MIDDLE 28655 - succeeded as a place result
+WARD ELEMENTARY 27127 - succeeded as a place result
+WARLICK ACADEMY 28054 - succeeded as a local result
+WARREN COUNTY HIGH 27589 - succeeded as a local result
+WARREN COUNTY MIDDLE 27589 - succeeded as a local result
+WARREN EARLY COLLEGE HIGH 27589 - succeeded as a local result
+WARREN NEW TECH HIGH 27589 - succeeded as a place result
+WARREN WILLIAMS ELEMENTARY ALTERNATIVE 27330 - succeeded as a place result
+WARRENWOOD ELEMENTARY 28311 - succeeded as a local result
+WARSAW ELEMENTARY 28398 - succeeded as a local result
+WASHINGTON COUNTY HIGH 27962 - succeeded as a local result
+WASHINGTON COUNTY MIDDLE 27970 FAILED 'local_results'
+WASHINGTON ELEMENTARY 27401 - succeeded as a local result
+WASHINGTON ELEMENTARY 27601 - succeeded as a local result
+WASHINGTON ELEMENTARY 28150 - succeeded as a place result
+WASHINGTON HIGH 27889 - succeeded as a local result
+WASHINGTON MONTESSORI 27889 - succeeded as a place result
+WASHINGTON STREET ELEMENTARY 28379 - succeeded as a local result
+WATAUGA HIGH 28607 - succeeded as a local result
+WATER'S EDGE VILLAGE SCHOOL 27927 - succeeded as a local result
+WAXHAW ELEMENTARY 28173 - succeeded as a local result
+WAYNE AVENUE ELEMENTARY 28334 - succeeded as a local result
+WAYNE EARLY / MIDDLE COLLEGE HIGH 27534 - succeeded as a place result
+WAYNE MIDDLE / HIGH ACADEMY 27530 - succeeded as a local result
+WAYNE PREPARATORY ACADEMY 27530 - succeeded as a local result
+WAYNE SCHOOL OF ENGINEERING 27530 - succeeded as a local result
+WAYNESVILLE MIDDLE 28786 - succeeded as a local result
+WEATHERSTONE ELEMENTARY 27513 - succeeded as a local result
+WEAVERVILLE ELEMENTARY 28787 - succeeded as a local result
+WEAVERVILLE PRIMARY 28787 FAILED 'rating'
+WEBB A MURRAY ELEMENTARY 28601 - succeeded as a place result
+WEBB STREET SCHOOL 28052 - succeeded as a local result
+WEDDINGTON ELEMENTARY 28104 - succeeded as a local result
+WEDDINGTON HIGH 28104 - succeeded as a local result
+WEDDINGTON HILLS ELEMENTARY 28025 - succeeded as a local result
+WEDDINGTON MIDDLE 28104 - succeeded as a local result
+WEEKSVILLE ELEMENTARY 27909 - succeeded as a local result
+WELBORN MIDDLE 27265 - succeeded as a local result
+WELCOME ELEMENTARY 27295 - succeeded as a local result
+WELDON ELEMENTARY GLOBAL ACADEMY 27890 - succeeded as a place result
+WELDON MIDDLE 27839 FAILED 'local_results'
+WELDON STEM HIGH SCHOOL CAREER ACADEMIES 27890 - succeeded as a place result
+WELLCOME MIDDLE 27834 - succeeded as a local result
+WELLS ELEMENTARY 27893 - succeeded as a local result
+WENDELL ELEMENTARY 27591 - succeeded as a local result
+WENDELL MIDDLE 27591 - succeeded as a local result
+WENTWORTH ELEMENTARY 27320 - succeeded as a local result
+WESLEY CHAPEL ELEMENTARY 28110 - succeeded as a place result
+WEST ALEXANDER MIDDLE 28681 - succeeded as a local result
+WEST BERTIE ELEMENTARY 27847 - succeeded as a local result
+WEST BLADEN HIGH 28320 - succeeded as a local result
+WEST BRUNSWICK HIGH 28470 - succeeded as a local result
+WEST BUNCOMBE ELEMENTARY 28806 - succeeded as a local result
+WEST CALDWELL HIGH 28645 - succeeded as a local result
+WEST CARTERET HIGH 28557 - succeeded as a local result
+WEST CARY MIDDLE 27513 - succeeded as a place result
+WEST CHARLOTTE HIGH SCHOOL 28216 - succeeded as a place result
+WEST CLAYTON ELEMENTARY 27520 - succeeded as a local result
+WEST COLUMBUS HIGH 28430 - succeeded as a local result
+WEST CRAVEN HIGH 28586 - succeeded as a local result
+WEST CRAVEN MIDDLE 28562 FAILED 'rating'
+WEST DAVIDSON HIGH 27295 - succeeded as a local result
+WEST EDGECOMBE MIDDLE 27801 - succeeded as a local result
+WEST ELEMENTARY 28086 - succeeded as a local result
+WEST END ELEMENTARY 27376 - succeeded as a place result
+WEST FORSYTH HIGH 27012 - succeeded as a local result
+WEST GREENE ELEMENTARY 28580 - succeeded as a local result
+WEST HENDERSON HIGH 28791 - succeeded as a local result
+WEST HOKE ELEMENTARY 28376 - succeeded as a local result
+WEST HOKE MIDDLE 28376 - succeeded as a place result
+WEST IREDELL HIGH 28677 - succeeded as a local result
+WEST IREDELL MIDDLE 28677 - succeeded as a local result
+WEST JOHNSTON HIGH 27504 - succeeded as a local result
+WEST LAKE ELEMENTARY 27539 - succeeded as a place result
+WEST LAKE MIDDLE 27539 - succeeded as a local result
+WEST LEE MIDDLE 27330 - succeeded as a local result
+WEST LENOIR ELEMENTARY 28645 - succeeded as a local result
+WEST LINCOLN HIGH 28092 - succeeded as a local result
+WEST LINCOLN MIDDLE 28092 - succeeded as a local result
+WEST MARION ELEMENTARY SCHOOL 28752 - succeeded as a place result
+WEST MCDOWELL MIDDLE SCHOOL 28752 - succeeded as a place result
+WEST MECKLENBURG HIGH SCHOOL 28214 - succeeded as a place result
+WEST MIDDLE 27306 - succeeded as a local result
+WEST MILLBROOK MIDDLE 27615 - succeeded as a local result
+WEST OXFORD ELEMENTARY 27565 - succeeded as a local result
+WEST PENDER MIDDLE 28425 - succeeded as a local result
+WEST PINE ELEMENTARY 27376 - succeeded as a local result
+WEST PINE MIDDLE 27376 - succeeded as a local result
+WEST ROCKINGHAM ELEMENTARY 28379 - succeeded as a local result
+WEST ROWAN HIGH 28125 - succeeded as a local result
+WEST ROWAN MIDDLE 28147 - succeeded as a local result
+WEST SMITHFIELD ELEMENTARY 27577 - succeeded as a local result
+WEST STANLY HIGH 28129 - succeeded as a local result
+WEST STANLY MIDDLE SCHOOL 28097 - succeeded as a place result
+WEST STOKES HIGH SCHOOL 27021 - succeeded as a place result
+WEST VIEW ELEMENTARY 27529 - succeeded as a place result
+WEST WILKES HIGH SCHOOL 28651 - succeeded as a place result
+WEST WILKES MIDDLE SCHOOL 28697 - succeeded as a place result
+WEST YADKIN ELEMENTARY 27020 - succeeded as a local result
+WESTAREA ELEMENTARY 28301 - succeeded as a local result
+WESTERLY HILLS ACADEMY 28208 - succeeded as a local result
+WESTERN ALAMANCE HIGH 27244 - succeeded as a local result
+WESTERN ALAMANCE MIDDLE 27244 - succeeded as a local result
+WESTERN GUILFORD HIGH 27410 - succeeded as a place result
+WESTERN GUILFORD MIDDLE 27410 - succeeded as a local result
+WESTERN HARNETT HIGH 27546 - succeeded as a local result
+WESTERN HARNETT MIDDLE 27546 - succeeded as a local result
+WESTERN ROCKINGHAM MIDDLE 27025 - succeeded as a local result
+WESTERN UNION ELEMENTARY 28173 - succeeded as a local result
+WESTFIELD ELEMENTARY 27041 - succeeded as a local result
+WESTMOORE ELEMENTARY 27341 - succeeded as a local result
+WESTOVER HIGH 28303 - succeeded as a local result
+WESTOVER MIDDLE 28303 FAILED 'rating'
+WESTWOOD ELEMENTARY 28694 - succeeded as a local result
+WHEATMORE HIGH SCHOOL 27370 - succeeded as a local result
+WHITAKER ELEMENTARY 27104 FAILED 'rating'
+WHITE OAK ELEMENTARY 27932 - succeeded as a local result
+WHITE OAK ELEMENTARY 28584 - succeeded as a place result
+WHITE OAK HIGH 28546 - succeeded as a local result
+WHITE PLAINS ELEMENTARY 27030 - succeeded as a local result
+WHITEVILLE HIGH 28472 - succeeded as a local result
+WHITEVILLE PRIMARY 28472 FAILED 'rating'
+WHITEWATER ACADEMY 28214 - succeeded as a local result
+WHITEWATER MIDDLE 28214 - succeeded as a local result
+WHITNEL ELEMENTARY 28645 - succeeded as a local result
+WILBURN ELEMENTARY 27604 - succeeded as a local result
+WILDWOOD FOREST ELEMENTARY 27616 - succeeded as a local result
+WILEY ACCEL/ENRICHMENT 27406 - succeeded as a local result
+WILEY ELEMENTARY 27605 - succeeded as a local result
+WILEY MAGNET MIDDLE 27104 - succeeded as a local result
+WILKES CENTRAL HIGH SCHOOL 28697 - succeeded as a place result
+WILKES EARLY COLLEGE HIGH SCHOOL 28697 FAILED 'local_results'
+WILKESBORO ELEMENTARY SCHOOL 28697 - succeeded as a local result
+WILLIAM AMOS HOUGH HIGH 28031 - succeeded as a place result
+WILLIAM ELLIS MIDDLE 27006 - succeeded as a local result
+WILLIAM H OWEN ELEMENTARY 28304 - succeeded as a place result
+WILLIAM LENOIR MIDDLE 28645 - succeeded as a local result
+WILLIAM R DAVIE ELEMENTARY 27028 - succeeded as a local result
+WILLIAM R DAVIE MIDDLE S.T.E.M. ACADEMY 27870 - succeeded as a local result
+WILLIAM T BROWN ELEMENTARY 28390 - succeeded as a place result
+WILLIAMS ELEMENTARY 28778 - succeeded as a local result
+WILLIAMS TOWNSHIP 28472 - succeeded as a local result
+WILLIAMSBURG ELEMENTARY 27320 - succeeded as a local result
+WILLIAMSTON PRIMARY 27892 FAILED 'local_results'
+WILLIFORD ELEMENTARY 27803 - succeeded as a place result
+WILLIS HARE ELEMENTARY 27862 - succeeded as a local result
+WILLISTON MIDDLE 28401 - succeeded as a local result
+WILLOW OAK MONTESSORI 27312 - succeeded as a local result
+WILLOW SPRINGS ELEMENTARY 27592 - succeeded as a local result
+WILMINGTON EARLY COLLEGE HIGH 28429 - succeeded as a place result
+WILMINGTON PREPARATORY ACADEMY 28403 - succeeded as a local result
+WILSON EARLY COLLEGE ACADEMY 27893 - succeeded as a place result
+WILSON PREPARATORY ACADEMY 27896 - succeeded as a local result
+WILSON'S MILLS ELEMENTARY 27593 - succeeded as a local result
+WILTON ELEMENTARY 27525 - succeeded as a local result
+WINDING SPRINGS ELEMENTARY 28269 - succeeded as a local result
+WINDSOR ELEMENTARY 27983 - succeeded as a local result
+WINDSOR PARK ELEMENTARY 28205 - succeeded as a local result
+WINECOFF ELEMENTARY 28027 - succeeded as a local result
+WINGATE ELEMENTARY 28174 - succeeded as a local result
+WINGET PARK ELEMENTARY 28278 - succeeded as a local result
+WINSTEAD AVENUE ELEMENTARY 27804 - succeeded as a local result
+WINSTEAD ELEMENTARY 27893 - succeeded as a local result
+WINSTON-SALEM PREPARATORY ACAD 27101 - succeeded as a local result
+WINTER PARK MODEL ELEMENTARY 28403 - succeeded as a local result
+WINTERFIELD ELEMENTARY 28205 - succeeded as a local result
+WINTERGREEN INTERMEDIATE 27858 - succeeded as a local result
+WINTERGREEN PRIMARY 27858 FAILED 'local_results'
+WITTENBURG ELEMENTARY 28681 - succeeded as a local result
+WOLF MEADOW ELEMENTARY 28027 - succeeded as a local result
+WOLFE SCHOOL 28112 - succeeded as a local result
+WOODFIN ELEMENTARY 28804 FAILED 'rating'
+WOODHILL ELEMENTARY 28052 FAILED 'rating'
+WOODINGTON MIDDLE 28504 - succeeded as a local result
+WOODLAND ELEMENTARY 27343 - succeeded as a local result
+WOODLAND HEIGHTS ELEMENTARY 28117 - succeeded as a place result
+WOODLAND HEIGHTS MIDDLE 28117 FAILED 'rating'
+WOODLAWN MIDDLE 27302 - succeeded as a local result
+WOODS CHARTER 27516 - succeeded as a local result
+WRIGHTSBORO ELEMENTARY 28401 - succeeded as a local result
+WRIGHTSVILLE BEACH ELEM 28480 FAILED 'rating'
+Y E SMITH ELEMENTARY 27703 - succeeded as a local result
+YADKIN EARLY COLLEGE 27055 - succeeded as a local result
+YADKIN SUCCESS ACADEMY 27055 - succeeded as a local result
+YADKIN VALLEY REGIONAL CAREER ACADEMY 27292 - succeeded as a place result
+YADKINVILLE ELEMENTARY 27055 - succeeded as a local result
+YATES MILL ELEMENTARY 27606 - succeeded as a local result
+YORK CHESTER MIDDLE 28052 - succeeded as a local result
+YORK ELEMENTARY 27613 - succeeded as a place result
+YOUNGSVILLE ELEMENTARY 27596 - succeeded as a local result
+Z.E.C.A. SCHOOL OF ARTS AND TECHNOLOGY 28540 - succeeded as a place result
+ZEB VANCE ELEMENTARY 27544 FAILED 'rating'
+ZEBULON B. VANCE HIGH SCHOOL 28262 - succeeded as a place result
+ZEBULON ELEMENTARY 27597 - succeeded as a local result
+ZEBULON MIDDLE 27597 - succeeded as a local result
